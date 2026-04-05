@@ -11,13 +11,13 @@ hero:
       link: /note-editeur
 
 features:
-  - title: 📖 Récit Complet
+  - title: Récit Complet
     details: L'intégralité des mémoires de Germain Moüette, de sa capture en mer jusqu'à sa libération et son retour en France.
-  - title: ✍️ Orthographe Modernisée
-    details: Une transcription soigneuse qui adapte le vieux français (1683) pour le lecteur contemporain tout en gardant le style d'origine.
-  - title: 🏺 Annexes Historiques
-    details: Inclut le "Traité de Commerce", le "Dictionnaire de la Langue Arabesque" et la description géographique du pays.
-  - title: ⚠️ Contexte Historique
+  - title: Fidèle à l'original
+    details: Texte modernisé puis vérifié paragraphe par paragraphe contre l'édition originale de 1683, avec réintégration des passages perdus.
+  - title: Annexes Historiques
+    details: Inclut le Traité de Commerce, le Dictionnaire de la Langue Arabesque et la description géographique du pays.
+  - title: Contexte Historique
     details: Un document brut du XVIIe siècle, reflétant les mentalités, les conflits et les préjugés de son époque.
 ---
 
@@ -34,4 +34,4 @@ Germain Moüette, gentilhomme français, a passé **onze années** (1670-1681) e
 * **Une observation ethnographique :** Des descriptions précises de l'architecture, de la cuisine (le couscous), des mariages, de la justice et de la vie à la cour du Sultan Moulay Ismail.
 * **Des documents pratiques :** Un guide commercial et linguistique destiné aux futurs voyageurs de l'époque.
 
-> **Note au lecteur :** Ce projet a été réalisé dans un but de conservation et de diffusion du patrimoine. Pour en savoir plus sur la méthode de transcription et les avertissements d'usage, merci de consulter la [Note de l'Éditeur](/note-editeur).
+> **Note au lecteur :** Ce projet a été réalisé dans un but de conservation et de diffusion du patrimoine. Pour en savoir plus sur la méthode de transcription et les principes éditoriaux, consultez la [Note sur la présente édition](/note-editeur).

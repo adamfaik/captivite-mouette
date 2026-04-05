@@ -42,7 +42,7 @@ export default defineConfig({
         text: 'À Propos de l\'Édition',
         collapsed: false,
         items: [
-          { text: "Note de l'Éditeur", link: '/note-editeur' },
+          { text: 'Note sur la présente édition', link: '/note-editeur' },
         ]
       },
       {
