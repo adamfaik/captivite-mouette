@@ -52,3 +52,43 @@ Ainsi finit ce brave Prince après avoir fait mille actions héroïques. Il éta
 [^2]: Les Algarbes d'Afrique : le Gharb, région du nord-ouest du Maroc.
 [^3]: Lieux communs : latrines.
 [^4]: Gayland : Moulay Ahmed el-Khadir Ghailan (ou Ghaïlan), prince d'origine andalouse qui régna sur le nord du Maroc au XVIIe siècle.
+
+---
+
+## Repères historiques
+
+**« le sieur Messonnier, Marchand Français demeurant à Cadix… Dom Pedro Catalan, Consul Français à Cadix »** — Pierre de Catalan était bien consul de France à Cadix dans les années 1680. Sa correspondance avec Colbert, conservée aux Archives nationales, montre qu'il servait de relais financier et diplomatique pour les affaires franco-marocaines. C'est par ce réseau marchand de Cadix — plaque tournante du commerce avec l'Afrique du Nord — que transitaient les fonds destinés au rachat des captifs. Catalan fut deux fois expulsé de Cadix en raison des guerres franco-espagnoles (1673-1677, puis 1689-1698).
+
+*Source : Archives nationales, AE/B/I/211-214 ; Anne Mézin, « Les négociants français de Cadix », e-Spania, 2016 — https://journals.openedition.org/e-spania/25049*
+
+**« il nous demanda à chacun mille écus »** — Les rançons exigées par Amar Hadou étaient exorbitantes. Au XVIIe siècle, le rachat d'un captif au Maroc coûtait deux à trois fois plus cher qu'à Alger. Deux ordres religieux se consacraient à la collecte de fonds pour libérer les prisonniers chrétiens : l'Ordre de la Sainte-Trinité (fondé en 1198) et l'Ordre de Notre-Dame de la Merci. Moüette lui-même sera finalement racheté en 1681 par les Mercédaires. Les mille écus réclamés par le gouverneur représentaient une somme considérable, bien au-delà de ce que la plupart des familles de marins ou d'artisans pouvaient réunir.
+
+*Source : « Tétouan, place de rachat des captifs aux XVIe et XVIIe siècles », Cahiers de la Méditerranée — https://journals.openedition.org/cdlm/7207*
+
+**« il nous fit mettre deux grosses chaînes de dix-huit à vingt livres chacune »** — Les conditions décrites par Moüette à Ksar el-Kébir sont corroborées par d'autres témoignages de l'époque. Sous Moulay Ismaïl, on estime que plus de 25 000 captifs chrétiens étaient détenus à travers le Maroc, la plupart employés à la construction du gigantesque palais de Meknès, que le sultan voulait rivaliser avec Versailles. Les passages à tabac étaient quotidiens et les rations, infimes. Le récit de Moüette est l'une des sources les plus détaillées sur ces conditions.
+
+*Source : « Histoire : Le Maroc sous Moulay Ismail, prison à ciel ouvert pour les esclaves chrétiens », Yabiladi — https://www.yabiladi.com/articles/details/76618/histoire-maroc-sous-moulay-ismail.html*
+
+**« on nous faisait descendre avec une échelle de corde dans une matamore très profonde »** — Les « matamores » (de l'arabe matmura, « lieu d'enfouissement ») étaient des silos à grains souterrains reconvertis en cachots. La plus célèbre de ces prisons est celle de Kara à Meknès, vaste labyrinthe souterrain construit sous Moulay Ismaïl, qui pouvait contenir plusieurs milliers de prisonniers. Son nom viendrait d'un captif portugais, Kara, qui aurait obtenu sa liberté en échange de sa construction. On peut encore la visiter aujourd'hui.
+
+*Source : « Prison de Kara », Wikipédia — https://fr.wikipedia.org/wiki/Prison_de_Kara*
+
+**« les Envoyés du Chevalier de Château-Renaud, Chef d'Escadre des Armées du Roi, arrivèrent à Alcassar pour y traiter la paix »** — François-Louis Rousselet, marquis de Château-Renaud (1637-1716), était alors chef d'escadre depuis 1673. En 1680, Louis XIV lui confia le blocus de Salé avec six vaisseaux pour forcer Moulay Ismaïl à négocier la libération des captifs français et un traité de paix. Château-Renaud poursuivit ensuite une carrière éclatante : lieutenant général des armées navales, vainqueur à Bantry Bay (1689) et à Lagos (1693), il finit vice-amiral et maréchal de France en 1703.
+
+*Source : « François Louis Rousselet de Châteaurenault », Larousse — https://www.larousse.fr/encyclopedie/personnage/Château-Renault/113056*
+
+**« une Captive Française… trouva moyen de mettre [la lettre] au milieu d'un [pain] »** — L'épisode de la lettre cachée dans un pain par Jeanne Solimeau illustre les réseaux de résistance informels que les captifs tissaient malgré la surveillance. Les femmes captives jouaient un rôle crucial dans ces communications clandestines, car elles circulaient plus librement que les hommes enchaînés. Le couple Prieur-Solimeau, chirurgien et sa femme capturés sur le navire rochelais *Le Samuel* en 1678, montre que la course barbaresque frappait aussi les passagers civils en route vers les colonies d'Amérique.
+
+*Source : Germain Moüette, Relation de la captivité, Paris, 1683 ; « Germain Moüette, récit d'un captif français », Yabiladi — https://www.yabiladi.com/articles/details/86372/germain-mouette-recit-d-un-captif.html*
+
+**« le Roi Dom Sébastien de Portugal perdit cette grande bataille contre Mouley Abdelmelec »** — La bataille dite « des Trois Rois », livrée le 4 août 1578 au bord de l'oued Makhazine près de Ksar el-Kébir, est l'un des événements les plus marquants de l'histoire ibéro-marocaine. Trois souverains y périrent : le roi Sébastien Ier de Portugal, le sultan déchu Mohammed el-Moutawakkil et le sultan régnant Abd el-Malik. La défaite anéantit la fine fleur de la noblesse portugaise (15 000 morts, 20 000 prisonniers) et provoqua l'annexion du Portugal par l'Espagne en 1580. Elle donna aussi naissance au « sébastianisme », mythe messianique selon lequel le jeune roi reviendrait un jour sauver sa nation.
+
+*Source : « Bataille des Trois Rois », Wikipédia — https://fr.wikipedia.org/wiki/Bataille_des_Trois_Rois ; « 4 août 1578 », Herodote.net — https://www.herodote.net/almanach-ID-1485.php*
+
+**« issu de l'illustre famille des Zégris si renommée dans les guerres civiles de ce Royaume »** — Les Zégris (ou Zéghris) et les Abencérages étaient deux grandes factions rivales du royaume nasride de Grenade au XVe siècle. Leurs querelles sanglantes, entre 1480 et 1492, affaiblirent le dernier bastion musulman d'Espagne et facilitèrent la Reconquista. La légende d'un massacre de trente-six Abencérages par le roi Boabdil, popularisée par l'écrivain Ginés Pérez de Hita, a inspiré Chateaubriand dans *Les Aventures du dernier Abencérage* (1826). Que Moüette rattache Ghaïlan aux Zégris montre combien ces lignages andalous restaient prestigieux au Maroc, un siècle et demi après la chute de Grenade.
+
+*Source : « Abencérages », Wikipédia — https://fr.wikipedia.org/wiki/Abenc%C3%A9rages*
+
+**« Cette ville… est sur les bords de la Rivière de Loukkos… dans un lieu Marécageux »** — Le caractère marécageux de Ksar el-Kébir, noté par Moüette en 1680, reste d'une actualité frappante. La ville, située dans la plaine alluviale du Loukkos à pente quasi nulle, subit régulièrement des inondations catastrophiques. En février 2026, plus de 54 000 habitants ont dû être évacués après une crue majeure du fleuve. Les causes structurelles — envasement du lit, drainage des zones humides, urbanisation — perpétuent une vulnérabilité que Moüette avait déjà observée il y a trois siècles et demi.
+
+*Source : « Ksar El Kébir : plus de 54 000 habitants déjà évacués », Le Petit Journal Marocain, 3 février 2026 — https://www.lepetitjournalmarocain.com/2026/02/03/maroc-ksar-el-kebir-plus-de-54-000-habitants-deja-evacues/*

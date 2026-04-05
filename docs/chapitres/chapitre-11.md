@@ -167,3 +167,47 @@ Cette histoire, aussi bien comme toutes celles qui suivent, n'ont été inséré
 [^4]: Le Grand Seigneur : le Sultan ottoman.
 [^5]: Feux : foyers, unités de comptage des ménages.
 [^6]: Candie : ancien nom de la Crète.
+
+---
+
+## Repères historiques
+
+**« un Morabite, ou Ermite, qui disait en Français quelques injures à des chiens »** — Le stratagème du déguisement en marabout était d'une audace extrême. Les marabouts jouissaient au Maghreb d'un statut quasi sacré : on leur baisait les mains, on leur demandait leur bénédiction, et nul n'osait les importuner. Un chrétien qui maîtrisait l'arabe, les prières islamiques et les codes de la sainteté soufie pouvait ainsi traverser des territoires entiers sans être inquiété. Mais la supercherie, si elle était découverte, entraînait une mort certaine — ce qui rend le périple de « Pedro le Gascon » d'autant plus remarquable.
+
+*Source : « Marabout », Encyclopædia Britannica, [britannica.com/topic/marabout](https://www.britannica.com/topic/marabout)*
+
+**« elle se vêtait toute de blanc, prenait un drap… elle paraissait avec cela comme un fantôme »** — Cette scène picaresque digne d'un roman espagnol montre une veuve de Grenade se déguisant en spectre — drap blanc sur une perche, chaînes de fer traînées dans les rues — pour rejoindre son amant la nuit sans être vue. Le stratagème exploite la peur des revenants, très vive dans l'Espagne du Siècle d'Or. L'épisode rappelle les *novelas ejemplares* de Cervantès, où ruse amoureuse et superstition populaire s'entremêlent constamment. La fin tragique — la dame poignardée par un ivrogne courageux — achève de donner à l'anecdote des airs de comédie noire.
+
+*Source : contexte littéraire du Siècle d'Or espagnol ; Moüette, Relation de la Captivité, Paris, Jean Cochart, 1683, chapitre XI.*
+
+**« l'Île de la Lampadouse… une petite Chapelle dédiée en l'honneur de Notre-Dame »** — L'île de Lampedusa, aujourd'hui symbole des migrations méditerranéennes, était au XVIIe siècle un lieu sacré partagé entre chrétiens et musulmans. Une grotte-sanctuaire abritait à la fois une image de la Vierge et le tombeau d'un saint musulman. Des marins des deux religions y déposaient vivres et matériel de navigation, qu'on pouvait prendre à condition d'en laisser la juste valeur. Selon une croyance commune aux deux confessions, quiconque prenait plus que nécessaire sans payer se trouvait mystérieusement empêché de quitter le port. Des religieux siciliens venaient chaque année collecter l'argent et réapprovisionner le dépôt. Ce système de confiance interreligieuse a fonctionné pendant plusieurs siècles, jusqu'à la colonisation de l'île par le Royaume des Deux-Siciles au XIXe siècle.
+
+*Source : « Shared holy places #1 – Lampedusa », [22-med.com](https://www.22-med.com/en/shared-holy-places-1-lampedusa-the-secret-navel-of-the-mediterranean/) ; « Lampedusa: Island of Muslim-Christian Trust, 1200–1700 », American Academy in Berlin, [americanacademy.de](https://www.americanacademy.de/event/lampedusa-island-muslim-christian-trust-1200-1700/)*
+
+**« Les Corsaires de Tripoli… sept Navires… l'Amiral, qui portait cinquante à soixante pièces de Canon »** — Au XVIIe siècle, Tripoli était l'une des trois grandes bases corsaires d'Afrique du Nord avec Alger et Tunis. Ces flottes opéraient avec le soutien tacite de l'Empire ottoman et avaient adopté les navires à voile européens, souvent construits avec l'aide de renégats. Le combat décrit par Moüette — un navire marchand français de cent hommes résistant à sept vaisseaux et tuant plus de cinq cents Turcs avant de céder — illustre la violence extrême de ces affrontements. On estime qu'environ 850 000 Européens furent réduits en esclavage par les Barbaresques entre 1580 et 1680.
+
+*Source : Adrian Tinniswood, Pirates of Barbary: Corsairs, Conquests and Captivity in the 17th-Century Mediterranean, Vintage, 2011 ; « Barbary corsairs », [Wikipedia](https://en.wikipedia.org/wiki/Barbary_corsairs)*
+
+**« un Renégat Anglais qui nous mena à Tripoli »** — Le détail est révélateur : les flottes corsaires comptaient dans leurs rangs de nombreux Européens convertis à l'islam, appelés « renégats ». Certains, comme l'Anglais John Ward ou le Hollandais Jan Janszoon, devinrent des capitaines redoutés. « Tourner Turc » (*to turn Turk*) était une expression courante en anglais de l'époque. Ces renégats apportaient aux corsaires leur expertise navale européenne, ce qui rendait les flottes barbaresques d'autant plus redoutables.
+
+*Source : « Barbary corsairs — Renegades », [Wikipedia](https://en.wikipedia.org/wiki/Barbary_corsairs) ; Corsairs & Captives Blog, [corsairsandcaptivesblog.com](https://corsairsandcaptivesblog.com/renegade-corsair-captains-the-tale-of-simon-dancer-part-1/)*
+
+**« deux jeunes Turcs… nous firent coucher sur les tables de marbre, nous tirèrent les nerfs des mains et des pieds… courtoisie en des gens que l'on tient chez nous pour Barbares »** — La description du hammam d'Alexandrie est l'un des plus anciens témoignages français détaillés de cette pratique. Le narrateur est visiblement émerveillé par le massage, le bain tiède et la courtoisie du personnel — au point de remettre en question le préjugé européen qui qualifiait les musulmans de « Barbares ». Quand les savants de l'expédition de Bonaparte arrivèrent en Égypte plus d'un siècle plus tard, ils admirèrent encore ces bains qu'ils jugèrent supérieurs à ceux d'Europe.
+
+*Source : « Baths and Bathing Culture in the Middle East: The Hammam », Metropolitan Museum of Art, [metmuseum.org](https://www.metmuseum.org/essays/baths-and-bathing-culture-in-the-middle-east-the-hammam)*
+
+**« les Pèlerins de Tafilalet, de Fez et de Maroc, à leur retour de la Mecque »** — Le faux marabout profite du passage d'une caravane de pèlerins revenant du Hajj pour s'y intégrer. Au XVIIe siècle, trois grandes caravanes partaient régulièrement de Fès, Marrakech et Sijilmassa (près de Tafilalet) ; elles se rejoignaient souvent en route et traversaient ensemble le Sahara et l'Afrique du Nord jusqu'en Égypte, avec parfois plus d'un millier de chameaux. Tafilalet, berceau de la dynastie alaouite alors en pleine ascension, était un carrefour stratégique de ces routes transsahariennes et un important centre de production de dattes, denrée essentielle pour le voyage.
+
+*Source : « Tafilalt », [Wikipedia](https://en.wikipedia.org/wiki/Tafilalt) ; « History of the Hajj », [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Hajj)*
+
+**« il allait voir s'ils étaient circoncis… Après avoir été reconnus, le Cady ne put s'empêcher de rire »** — La scène de la vérification physique à Marrakech est à la fois comique et cruelle. La circoncision étant pratiquée dans l'islam mais pas dans le christianisme occidental de l'époque, elle constituait le test ultime pour démasquer un chrétien déguisé en musulman. Ce procédé d'identification est documenté dans plusieurs récits de captivité barbaresque des XVIe et XVIIe siècles. Pour les renégats européens qui se convertissaient à l'islam, la circoncision adulte — douloureuse et risquée — était un obstacle majeur, ce qui explique que les femmes se convertissaient plus facilement que les hommes.
+
+*Source : « Chrétiens convertis à l'Islam et circoncision aux XVIe et XVIIe siècles », Persée, [persee.fr](https://www.persee.fr/doc/horma_0984-2616_1989_num_14_1_1027)*
+
+**« Mouley Hamet Meherez qui en était Roi… le Roi de Fez son oncle »** — Le chapitre se déroule en pleine guerre civile marocaine. Moulay Ahmed ben Mehrez, neveu du sultan Moulay Ismaïl, s'était fait proclamer souverain à Marrakech avec le soutien des tribus du Haouz et du Souss. Son oncle Moulay Ismaïl, « roi de Fez » dans le texte, le combattit pendant treize ans (1672-1685) avant de reprendre définitivement le contrôle. C'est dans ce chaos que les deux fugitifs sont pris, puis ballottés d'un camp à l'autre au gré des victoires militaires — destin typique des esclaves chrétiens en ces temps troublés.
+
+*Source : « Ismail Ibn Sharif », [Wikipedia](https://en.wikipedia.org/wiki/Ismail_Ibn_Sharif) ; African Research Consult, [african-research.com](https://african-research.com/research/african-countries/the-bloody-reign-of-sultan-moulay-ismail-ibn-sharif-of-17th-century-morocco/)*
+
+**« il arriva heureusement à Tanger… un Soldat Irlandais de la Garnison qui était ivre »** — Tanger était alors une possession anglaise (1661-1684), acquise par Charles II dans la dot de Catherine de Bragance. La garnison, composée de soldats anglais et irlandais, défendait péniblement la ville contre les forces marocaines. Que Pedro le Gascon, après des années d'errance à travers le Sahara et l'Atlas déguisé en saint homme, soit finalement blessé par balle par un soldat ivre de sa propre garnison de refuge est d'une ironie tragique que Moüette ne manque pas de souligner. Les Anglais évacuèrent Tanger définitivement en février 1684, un an seulement après la publication de ce récit.
+
+*Source : « English Tangier », [Wikipedia](https://en.wikipedia.org/wiki/English_Tangier) ; Andrew Abram, The English Garrison of Tangier, Helion & Company, 2022.*

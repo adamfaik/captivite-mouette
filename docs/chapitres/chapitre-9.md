@@ -45,3 +45,47 @@ J'avais décrit leur voyage en composant ce récit fidèle de ma captivité ; ma
 [^1]: Cossat : tiges et coques sèches des fèves, utilisées comme combustible.
 [^2]: Le *bitte* désigne la prison ou le quartier de détention des esclaves chrétiens.
 [^3]: Blanquilles : petite monnaie de faible valeur ayant cours au Maroc.
+
+---
+
+## Repères historiques
+
+**« une petite écuelée de farine noire et une once d'huile à chacun par jour »** — Cette ration de famine décrite par Moüette est corroborée par d'autres témoignages de captifs à Meknès. Sous Moulay Ismaïl (1672-1727), les esclaves chrétiens -- peut-être 25 000 au total -- travaillaient quinze heures par jour à bâtir le palais impérial, nourris d'un pain moisi et à moitié cuit, sans viande. Plusieurs chroniqueurs rapportent que le sultan lui-même s'inquiétait parfois de voir ses ouvriers trop affaiblis pour travailler, non par humanité, mais par calcul économique.
+
+*Source : « History: When Moulay Ismail put Christian slaves to hard labor in Meknes », Yabiladi, [en ligne](https://en.yabiladi.com/articles/details/76617/history-when-moulay-ismail-christian.html)*
+
+**« Tous ceux d'une Nation se mettaient ensemble afin de mieux s'entre-soulager »** — L'organisation des captifs par nationalité n'a rien d'anecdotique : elle reproduisait une véritable micro-société à l'intérieur du bagne. Français, Espagnols, Portugais, Anglais et Hollandais formaient des communautés séparées avec leurs propres boulangers et cuisiniers, gérant collectivement leurs maigres ressources. Ce système de solidarité nationale était courant dans les bagnes barbaresques, où chaque « nation » avait parfois son propre consul ou représentant auprès des autorités locales.
+
+*Source : Gillian Weiss, « Captives and Corsairs: France and Slavery in the Early Modern Mediterranean », Stanford University Press, 2011*
+
+**« nous fîmes une petite chambre posée sur une grosse solive [...] avec une porte fermant en trappe »** — La cachette ingénieuse de Moüette, dissimulée en hauteur dans le bitte de Meknès, illustre la débrouillardise des captifs. Le bagne (ou « bitte ») de Meknès était un vaste complexe souterrain et semi-souterrain connu sous le nom de Prison Qara, dont les vestiges sont encore visibles aujourd'hui. Les prisonniers y dormaient dans des chambres superposées sur des échafaudages de cannes, et certains parvenaient à aménager des espaces secrets pour échapper aux corvées. Le passage entre le quartier français et le quartier espagnol par une fenêtre rappelle la proximité et la porosité de ces « nations » captives.
+
+*Source : « Qara Prison », Wikipedia, [en ligne](https://en.wikipedia.org/wiki/Qara_Prison) ; « Prison de Kara », Atlas Obscura, [en ligne](https://www.atlasobscura.com/places/prison-de-kara)*
+
+**« Il fut pris des Corsaires de Salé en l'année 1671 sur un Vaisseau de la Compagnie des Indes Occidentales qui allait à Cayenne »** — La Compagnie française des Indes Occidentales, créée par Colbert en 1664, assurait le commerce avec les colonies d'Amérique, dont la Guyane. Ses navires, croisant au large des côtes marocaines, étaient des proies tentantes pour les corsaires de la République de Salé, cité-État pirate fondée par des Morisques expulsés d'Espagne. À son apogée, Salé armait des dizaines de navires qui opéraient jusqu'en Manche et même jusqu'en Islande, capturant des milliers d'Européens.
+
+*Source : « Republic of Salé », Wikipedia, [en ligne](https://en.wikipedia.org/wiki/Republic_of_Sal%C3%A9) ; « Compagnie française des Indes occidentales », Wikipedia, [en ligne](https://fr.wikipedia.org/wiki/Compagnie_fran%C3%A7aise_des_Indes_occidentales)*
+
+**« il s'acquit la faveur du Roi [...] ayant guéri Abdrahaman Fillély [...] que Mouley Mimon Ambarque avait fait Eunuque »** — Le détail sidérant de la castration punitive d'un haut dignitaire -- le premier secrétaire du roi, mutilé pour avoir violé une fille confiée à sa garde -- révèle la brutalité des mœurs judiciaires à la cour marocaine. La pratique de l'émasculation était courante dans l'empire chérifien, tant pour punir que pour fournir des gardiens au sérail. Les eunuques, castrés avant la puberté, occupaient des postes de confiance dans les harems. Les jeunes captifs chrétiens étaient aussi menacés de ce sort, comme Moüette le rappelle plus loin dans le chapitre.
+
+*Source : « Les exécutions sanglantes de Moulei Ismaël et les captifs chrétiens », Hispania (Persée), 1933, [en ligne](https://www.persee.fr/doc/hispa_0007-4640_1933_num_35_4_2597)*
+
+**« le Révérend Père Lartigues, Religieux de la Merci, le racheta [...] en l'année 1676 »** — L'Ordre de Notre-Dame de la Merci, fondé en 1218 à Barcelone par Pierre Nolasque avec le soutien du roi Jacques Ier d'Aragon et de Raymond de Penyafort, était entièrement voué au rachat des captifs chrétiens. Ses religieux collectaient des fonds à travers l'Europe, puis négociaient directement avec les autorités musulmanes le prix de chaque esclave. Le coût d'un rachat variait considérablement selon la profession du captif et la richesse présumée de sa famille -- un chirurgien comme Castel valait cher, ce qui explique la colère d'Abdrahaman quand il apprend sa libération.
+
+*Source : « Order of the Blessed Virgin Mary of Mercy », Wikipedia, [en ligne](https://en.wikipedia.org/wiki/Order_of_the_Blessed_Virgin_Mary_of_Mercy) ; « The Economics of the Barbary Corsair Enterprise », Corsairs & Captives, [en ligne](https://corsairsandcaptivesblog.com/the-economics-of-the-barbary-corsair-enterprise/)*
+
+**« leur quatrième Vœu qui les rend les victimes de la charité, toujours prêts à mourir pour le prochain »** — Ce quatrième vœu, unique dans l'histoire des ordres religieux, obligeait les Mercédaires à se constituer otages si l'argent du rachat venait à manquer, au péril de leur vie. Ce « vœu de sang » n'était pas théorique : saint Sérapion, l'un des premiers membres de l'ordre, fut crucifié par les musulmans après s'être livré en échange de captifs dont la rançon n'avait pu être réunie à temps. Entre 1218 et 1301, les Mercédaires auraient racheté plus de 11 600 captifs selon leurs propres archives.
+
+*Source : « The Fourth Vow - Going the Extra Mile », Order of Mercy, [en ligne](https://www.orderofmercy.org/amp/the-fourth-vow-going-the-extra-mile) ; « Martyrdom and Charism », Order of Mercy, [en ligne](http://orderofmercymen.org/2015/08/martyrdom-and-charism-the-ransom-of-christian-captives/)*
+
+**« la sacrée Vierge apparut une même nuit au Roi d'Aragon, à Saint Pierre Nolasque et à Saint Raymond de Penafort »** — Ce récit de triple apparition simultanée dans la nuit du 1er août 1218 constitue le mythe fondateur de l'Ordre de la Merci. Selon la tradition, la Vierge Marie serait apparue séparément à Pierre Nolasque, au dominicain Raymond de Penyafort et au roi Jacques Ier d'Aragon, leur ordonnant de fonder un ordre consacré au rachat des captifs. Le lendemain, les trois hommes se seraient retrouvés à la cathédrale de Barcelone, découvrant stupéfaits qu'ils avaient reçu la même vision. Pierre Nolasque, originaire du Lauragais, fut canonisé en 1628.
+
+*Source : « Apparitions de Notre-Dame de la Merci à Barcelone », La Porte Latine, [en ligne](https://laportelatine.org/spiritualite/apparitions/apparitions-de-notre-dame-de-la-merci-a-barcelone-espagne-le-1er-aout-1218) ; « Pierre Nolasque », Larousse, [en ligne](https://www.larousse.fr/encyclopedie/personnage/saint_Pierre_Nolasque/138152)*
+
+**« il abandonna les intérêts de la terre pour choisir ceux du Ciel. Il prit l'habit dans le Couvent des Religieux de la Merci de Toulouse »** — Le parcours de Guillaume Castel, chirurgien capturé devenu frère Joseph des Mercédaires, illustre un phénomène récurrent : d'anciens captifs qui, une fois libérés, entraient dans les ordres rédempteurs pour secourir ceux qu'ils avaient laissés derrière eux. Leur connaissance directe des bagnes et de la langue arabe en faisait des négociateurs précieux. C'est ainsi que Castel parvint à convaincre ses supérieurs de diriger la rédemption vers Meknès plutôt que vers Tripoli, où la majorité des voix penchait initialement.
+
+*Source : « The Redemptive Orders - Part 2 », Corsairs & Captives, [en ligne](https://corsairsandcaptivesblog.com/the-redemptive-orders-part-2/) ; « 800 Years of Freeing Captives », National Catholic Register, [en ligne](https://www.ncregister.com/features/800-years-of-freeing-captives)*
+
+**« Tertullien appelait autrefois un genre d'hommes toujours prêts à mourir »** — Moüette cite ici librement l'*Apologeticum* de Tertullien (vers 197 ap. J.-C.), texte fondamental de l'apologétique chrétienne dans lequel le théologien carthaginois défend les chrétiens persécutés par Rome. Le passage le plus célèbre de cet ouvrage affirme que « le sang des chrétiens est une semence » (*semen est sanguis christianorum*, chap. 50). En rapprochant les Mercédaires des premiers martyrs, Moüette élève le rachat des captifs au rang de témoignage suprême de la foi, un argument rhétorique puissant dans la France de Louis XIV.
+
+*Source : Tertullien, *Apologeticum*, chap. 50, texte latin disponible sur [tertullian.org](https://www.tertullian.org/latin/apologeticus.htm)*

@@ -82,3 +82,47 @@ De là, je fus à Bonnelle, lieu de ma naissance, où je rencontrai tous mes par
 [^4]: Matamore : cachot souterrain servant de prison pour les captifs, du mot arabe *matmura* (lieu d'enfouissement).
 [^5]: Louis XIV.
 [^6]: « Safaro » dans l'original. Sefrou, ville au pied du Moyen Atlas au sud de Fès.
+
+---
+
+## Repères historiques
+
+**« Ces bons Pères étant partis de Marseille le 13 du mois d'Octobre 1680 »** — L'Ordre de Notre-Dame de la Merci, fondé en 1218 à Barcelone par Pierre Nolasque, se distingue des autres ordres religieux par un quatrième vœu spectaculaire : ses membres s'engagent à se livrer eux-mêmes en otage si nécessaire pour sauver des captifs chrétiens en danger de perdre la foi. Entre 1600 et 1635, les Mercédaires avaient déjà mené dix missions de rachat à Tétouan et deux à Salé, libérant près de 2 500 captifs. Celle de 1681 que décrit Moüette s'inscrit dans cette longue tradition, mais elle se heurte à un sultan bien plus redoutable que les corsaires de Salé.
+
+*Source : « The Redemptive Orders – Part 2 », [Corsairs & Captives](https://corsairsandcaptivesblog.com/the-redemptive-orders-part-2/) ; « Mercedarians », [Catholic Encyclopedia](https://www.newadvent.org/cathen/10197b.htm)*
+
+**« Il faisait battre un Taureau avec les Lions lorsque nous lui parlâmes »** — Le portrait que Moüette brosse de Moulay Ismaïl — cruel et avare, mais valeureux et fin stratège — coïncide remarquablement avec les témoignages d'autres Européens. Le consul de France Jean-Baptiste Estelle le décrivait comme « naturellement valeureux, infatigable à la guerre ». L'ambassadeur Pidou de Saint-Olon estimait qu'il avait tué de ses propres mains quelque 20 000 personnes en vingt ans de règne. Ce goût pour les combats d'animaux, mentionné ici au détour d'une phrase, était typique d'un souverain qui mettait en scène la violence comme instrument de pouvoir.
+
+*Source : « Ismaïl ben Chérif », [Wikipédia](https://fr.wikipedia.org/wiki/Isma%C3%AFl_ben_Ch%C3%A9rif) ; « History: When Moulay Ismail put Christian slaves to hard labor in Meknes », [Yabiladi](https://en.yabiladi.com/articles/details/76617/history-when-moulay-ismail-christian.html)*
+
+**« Abdala Ben Aicha, Amiral de Salé »** — Abdellah Ben Aïcha (vers 1646–1713) est l'une des figures les plus fascinantes du Maroc de cette époque : corsaire redouté devenu amiral de Salé, puis ambassadeur de Moulay Ismaïl auprès de Louis XIV en 1698 et du roi d'Angleterre. Moüette le montre ici dans un rôle moins glorieux, celui d'intermédiaire qui identifie les captifs les plus « rentables » pour empêcher leur libération. Sa carrière illustre la porosité entre piraterie, diplomatie et commerce dans le Maroc alaouite.
+
+*Source : « Diplomates marocains #3 : Abdellah Benaïcha », [Yabiladi](https://www.yabiladi.com/articles/details/65301/diplomates-marocains-abdellah-benaicha-corsaire.html) ; « Abdellah Benaïcha », [Wikipédia](https://fr.wikipedia.org/wiki/Abdellah_Bena%C3%AFcha)*
+
+**« Quatre mille Noirs qu'il a ordinairement de Gardes »** — Ces gardes noirs sont les célèbres Abid al-Bukhari, armée d'esclaves noirs constituée par Moulay Ismaïl à partir de 1673. À son apogée, cette garde personnelle comptait entre 50 000 et 100 000 hommes. Le sultan avait fait rassembler tous les Noirs du royaume — y compris des musulmans libres, en violation du droit islamique — dans des camps militaires où hommes et femmes étaient formés dès l'enfance au service du trône. Le chiffre de 4 000 donné par Moüette ne reflète que la garnison permanente de Meknès.
+
+*Source : « Abid al-Boukhari », [Wikipédia](https://fr.wikipedia.org/wiki/Abid_al-Bukhari) ; « Les Abid al-Bukhari, la garde royale noire du Maroc », [Nofi](https://www.nofi.media/2024/07/les-abid-al-bukhari/9554)*
+
+**« Un Château, un Palais et des Sérails… sur chacune desquelles sont trois Fleurs de lys que nous y posâmes en l'année 1677 »** — Moüette est l'un des rares témoins oculaires de la construction du gigantesque complexe palatial de Meknès, souvent comparé à Versailles. Le sultan aurait employé plus de 25 000 captifs chrétiens et 30 000 prisonniers de droit commun à cette entreprise colossale. Le détail des fleurs de lys sculptées par des esclaves français sur les tours du château de leur geôlier est d'une ironie poignante : les armes du Roi-Soleil ornant la forteresse d'un souverain qui retenait ses sujets en esclavage.
+
+*Source : « Kasbah of Moulay Ismail », [Wikipedia](https://en.wikipedia.org/wiki/Kasbah_of_Moulay_Ismail) ; « History: When Moulay Ismail put Christian slaves to hard labor in Meknes », [Yabiladi](https://en.yabiladi.com/articles/details/76617/history-when-moulay-ismail-christian.html)*
+
+**« Le Gouverneur de cette Ville, que nous avons vu cette année dans Paris pour Ambassadeur du Roi de Maroc »** — Moüette fait ici allusion à Mohammed Temim, gouverneur de Tétouan, que Moulay Ismaïl envoya comme ambassadeur à la cour de Louis XIV en 1681–1682. Reçu à Saint-Germain-en-Laye le 4 janvier 1682, Temim négocia un traité d'amitié entre le Maroc et la France. Sa visite fut immortalisée par un tableau d'Antoine Coypel le montrant à la Comédie-Italienne. On mesure le vertige de Moüette : le même pouvoir qui l'avait tenu en esclavage envoyait ses représentants parader dans les salons parisiens.
+
+*Source : « Diplomates marocains #23 : Mohammed Temim », [Yabiladi](https://www.yabiladi.com/articles/details/58596/histoire-1682-moulay-ismail-depechait.html) ; « Mohammad Temim », [Wikipedia](https://en.wikipedia.org/wiki/Mohammad_Temim)*
+
+**« Son Éminence Monseigneur le Cardinal de Grimaldi nous donna sa bénédiction »** — Girolamo Grimaldi-Cavalleroni (1597–1685), cardinal italien et archevêque d'Aix-en-Provence depuis 1648, était alors âgé de 84 ans. Ancien nonce apostolique et protégé du cardinal Mazarin — dont il avait été le principal consécrateur —, il occupait ce siège depuis trente-trois ans lorsqu'il bénit les captifs de retour de Barbarie. Sa présence souligne le caractère solennel et quasi liturgique du voyage de retour à travers la France.
+
+*Source : « Girolamo Grimaldi-Cavalleroni », [Wikipedia](https://en.wikipedia.org/wiki/Girolamo_Grimaldi-Cavalleroni) ; « Le cardinal Jérôme Grimaldi », [Au fil de la pensée](https://aufildelapense.wordpress.com/2019/07/17/le-cardinal-jerome-grimaldi/)*
+
+**« Je fus à la Sainte-Baume, où j'eus le bien de voir les saints lieux où la Madeleine fit ses austères Pénitences »** — Le sanctuaire de la Sainte-Baume, grotte naturelle nichée dans le massif provençal, est l'un des plus anciens lieux de pèlerinage chrétien. Selon la tradition, Marie-Madeleine y aurait vécu trente ans de pénitence après avoir évangélisé la Provence. Gardé par les Dominicains depuis le XIIIe siècle, le site rivalisait avec Rome et Saint-Jacques-de-Compostelle. Que Moüette, à peine libéré de onze ans d'esclavage, fasse ce détour de dévotion en dit long sur la piété du XVIIe siècle — et sur le besoin de donner un sens spirituel à ses propres souffrances.
+
+*Source : « Histoire de la Grotte », [Sanctuaire de la Sainte-Baume](https://www.saintebaume.org/grotte/histoire/) ; « Sanctuaire de la Sainte-Baume », [Wikipédia](https://fr.wikipedia.org/wiki/Sanctuaire_de_la_Sainte-Baume)*
+
+**« Le peuple de cette ville est la plupart d'Andalous, qui sont les Maures qui furent chassés d'Espagne »** — Moüette identifie avec justesse l'origine morisque de la population de Tétouan. Après le décret d'expulsion de 1609, des vagues de réfugiés andalous, castillans et aragonais avaient afflué vers la ville, transformant ce petit port en une cité corsaire prospère. Les Morisques y apportèrent leur savoir-faire maritime — et leur soif de revanche contre l'Espagne chrétienne, ce qui fit de Tétouan l'un des nids de pirates les plus actifs de la Méditerranée occidentale.
+
+*Source : « Tétouan – La période morisque et la montée en puissance », [CNRS Éditions](https://books.openedition.org/editionscnrs/1265?lang=en) ; « Barbary corsairs », [Wikipedia](https://en.wikipedia.org/wiki/Barbary_corsairs)*
+
+**« Nous arrivâmes à Paris le 19 de Juillet… ils nous amenèrent en Procession à Notre-Dame où nous chantâmes le Te Deum »** — Ces processions de captifs rachetés étaient de véritables événements publics dans la France d'Ancien Régime. Les deux ordres rédempteurs — Mercédaires et Trinitaires (dits Mathurins) — organisaient des cortèges solennels qui traversaient Paris depuis l'abbaye de Saint-Antoine jusqu'à Notre-Dame. Une estampe de 1785 conservée à la BnF montre encore cet usage, preuve que la cérémonie perdura plus d'un siècle après le retour de Moüette. Ces processions servaient autant à rendre grâce qu'à encourager les aumônes publiques nécessaires aux futures rédemptions.
+
+*Source : « Quelques processions de captifs en France à leur retour du Maroc, d'Algérie ou de Tunis », [Persée](https://www.persee.fr/doc/remmm_0035-1474_1970_hos_8_1_1038) ; « Ordre et marche de la procession des captifs françois… », [Gallica – BnF](https://gallica.bnf.fr/ark:/12148/btv1b69425343)*

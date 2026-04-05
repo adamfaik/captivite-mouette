@@ -30,3 +30,43 @@ Ce fut aussi en ce temps-là qu'on me raconta les cruautés de Mouley Archy enve
 
 [^1]: Fez el-Bali (Fès el-Bali), la vieille ville de Fès.
 [^2]: Fez Gedide (Fès el-Jdid), la ville nouvelle de Fès, fondée au XIIIe siècle par les Mérinides.
+
+---
+
+## Repères historiques
+
+**« Les murailles qui donnent sur les rues ou sur leurs voisins n'ont aucune ouverture »** — Cette absence de fenêtres sur l'extérieur n'est pas un oubli d'architecte : c'est le principe fondateur du riad marocain, dont le nom vient de l'arabe *ryad* (jardin). La maison traditionnelle de Fès est entièrement tournée vers l'intérieur, autour d'un patio central, pour préserver l'intimité familiale et se protéger du climat. Les murs extérieurs, en terre crue ou en brique, restent volontairement aveugles. Ce modèle architectural, encore intact dans la médina de Fès el-Bali, est classé au patrimoine mondial de l'UNESCO depuis 1981.
+
+*Source : « Riad (architecture) », Wikipédia, https://en.wikipedia.org/wiki/Riad_(architecture)*
+
+**« une ceinture de plâtre tout autour de la chambre [...] on grave quantité de fleurs à la Mosaïque [...] petits carreaux élaborés et peints de diverses couleurs »** — Moüette décrit ici deux arts décoratifs emblématiques du Maroc : le stuc ciselé (*gebs*) et le zellige. Le zellige est un assemblage de tesselles de céramique émaillée, taillées une à une au marteau, formant des motifs géométriques complexes. Cet art remonte au Xe siècle sous les Almoravides et atteint son apogée à Fès sous les Mérinides (XIIIe-XVe siècles). Fès reste aujourd'hui le principal centre de production du zellige, où les *maallems* (maîtres artisans) transmettent leur savoir de père en fils.
+
+*Source : « Zellij », Wikipédia, https://en.wikipedia.org/wiki/Zellij*
+
+**« des Haïques de toile d'Hollande ou de Bretagne [...] ils s'enveloppent pour dormir »** — Le haïk (de l'arabe *hāka*, « tisser ») est une grande pièce de tissu rectangulaire d'environ cinq mètres de long, portée drapée sur le corps. Moüette nous apprend que les étoffes européennes étaient prisées pour sa confection. Les « toiles bretagnes », produites entre Saint-Brieuc et Pontivy, étaient au XVIIe siècle l'un des produits d'exportation phares de la France : un tiers des textiles transitant par Cadix vers les marchés méditerranéens étaient bretons. Le commerce avec les ports barbaresques constituait l'un des débouchés de cette industrie florissante.
+
+*Sources : « Haik (garment) », Wikipédia, https://en.wikipedia.org/wiki/Haik_(garment) ; « Les toiles bretagnes : un produit d'exportation », Bécédia, https://bcd.bzh/becedia/fr/les-toiles-bretagnes-un-produit-dexportation*
+
+**« le Couscoussou est leur mets le plus ordinaire »** — La recette que Moüette détaille avec tant de précision est l'une des plus anciennes descriptions européennes du couscous. Ce plat berbère, attesté dès le XIIe siècle dans le Maghreb, est préparé dans un ustensile à deux étages appelé *couscoussier* : le pot inférieur (*gdra*) contient le ragoût de viande, et le panier supérieur percé (*keskes*) reçoit la semoule qui cuit à la vapeur. Des couscoussiers en céramique datant du IXe siècle ont été retrouvés à Tiaret (Algérie), et d'autres du XIIe siècle dans les ruines d'Igiliz, au Maroc. Le mot « couscous » entre dans la langue française précisément au début du XVIIe siècle.
+
+*Sources : « Couscous », Wikipédia, https://en.wikipedia.org/wiki/Couscous ; « Couscoussier », Grokipedia, https://grokipedia.com/page/Couscoussier*
+
+**« un autre vaisseau de cuivre fait exprès, fort large par le haut et assez étroit par le bas [...] dont le fond est percé comme une poêle à châtaignes »** — La comparaison avec la « poêle à châtaignes » est savoureuse : Moüette cherche un repère familier pour ses lecteurs français. L'ustensile qu'il décrit correspond exactement au *keskes*, la partie supérieure du couscoussier traditionnel, dont le fond perforé permet à la vapeur du bouillon de cuire la semoule par en dessous. Le joint étanche qu'il décrit — « un linge mouillé avec un peu de farine détrempée » — est une technique encore utilisée aujourd'hui dans les cuisines marocaines pour empêcher la vapeur de s'échapper sur les côtés.
+
+*Source : « How to Master the Art of Preparing Couscous the Moroccan Way », Amboora, https://amboora.com/blogs/news/how-to-steam-couscous*
+
+**« leur mode de construire des murs [...] ils ne sont bâtis que de terre, laquelle ils engraissent de chaux »** — Moüette décrit la technique du pisé, ou terre battue coffrée, utilisée depuis des millénaires au Maghreb. Les murs sont élevés en tassant de la terre argileuse mélangée à de la chaux entre des planches de coffrage (les « banches »). Sous Moulay Ismaïl, cette technique sera employée à une échelle colossale pour bâtir la kasbah de Meknès, dont les murailles en pisé atteignent sept mètres d'épaisseur et s'étendent sur plus de sept kilomètres. Entre 25 000 et 55 000 ouvriers et captifs auraient participé à ces chantiers titanesques.
+
+*Source : « Kasbah of Moulay Ismail », Wikipédia, https://en.wikipedia.org/wiki/Kasbah_of_Moulay_Ismail*
+
+**« les Commandants [...] les obligent à coups de pierre à recommencer ce mouvement perpétuel qu'ils n'oseraient discontinuer, même pour manger un peu de pain »** — Les conditions décrites par Moüette préfigurent ce qu'il vivra lui-même à Meknès, où il sera transféré par la suite. Sous Moulay Ismaïl, tous les captifs chrétiens pris en mer par les corsaires de Salé ou sur les côtes européennes étaient regroupés dans la capitale et affectés aux grands chantiers royaux. On estime leur nombre à plusieurs milliers. Des ordres religieux — Trinitaires, Mercédaires et Franciscains — organisaient depuis la France des missions de « rédemption » pour racheter ces captifs, financées par des aumônes collectées dans tout le royaume sur ordre de Louis XIII.
+
+*Sources : « Quelques cas d'évasions de captifs chrétiens au Maroc », OpenEdition, https://journals.openedition.org/cdlm/7262 ; « Ordre rédempteur », Wikipédia, https://fr.wikipedia.org/wiki/Ordre_r%C3%A9dempteur*
+
+**« le Révérend Père Grégoire Rippert de l'Ordre de Saint François [...] qui était lors Captif »** — La présence de religieux parmi les captifs était courante. Franciscains, Trinitaires et Mercédaires se rendaient volontairement en terre barbaresque pour assister spirituellement les prisonniers chrétiens, quitte à être eux-mêmes retenus. Les autorités marocaines toléraient généralement la pratique du culte chrétien dans les bagnes, car les religieux servaient d'interlocuteurs pour les négociations de rachat et contribuaient à maintenir l'ordre parmi les esclaves. Moüette lui-même sera libéré en 1681 grâce à une mission de rédemption des Pères de la Merci, avec 45 autres captifs.
+
+*Sources : « Germain Moüette », Wikipédia, https://fr.wikipedia.org/wiki/Germain_Mo%C3%BCette ; « Quelques processions de captifs en France », Persée, https://www.persee.fr/doc/remmm_0035-1474_1970_hos_8_1_1038*
+
+**« je fus quelque temps occupé à broyer des couleurs sous un Peintre qui était aussi Talbe, ou Docteur de l'Alcoran »** — Le *taleb* (de l'arabe *tālib*, « celui qui cherche [le savoir] ») désigne un lettré versé dans les sciences coraniques. Au Maroc du XVIIe siècle, les savants religieux pouvaient aussi être astronomes, médecins ou artistes : l'islam ne séparait pas les disciplines profanes du savoir sacré. Le taleb Bougimon, qui enseigne à Moüette les « mœurs et la religion du Pays », est aussi le maître qui lui apprendra l'arabe et l'espagnol — connaissances qui nourriront son remarquable glossaire franco-arabe de près de 900 mots, publié avec ses mémoires en 1683.
+
+*Sources : « Germain Moüette », Yabiladi, https://www.yabiladi.com/articles/details/86372/germain-mouette-recit-d-un-captif.html ; « Revealed Sciences: Morocco and Islam in the 17th century », The New Arab, https://www.newarab.com/features/revealed-sciences-morocco-and-islam-17th-century*

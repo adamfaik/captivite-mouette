@@ -42,3 +42,47 @@ Lorsqu'on nous débarqua à terre, une jeune et très belle fille de Normandie, 
 [^2]: Tillac : pont supérieur d'un navire.
 [^3]: Flibot (ou flibot) : petit navire de guerre rapide, de l'anglais *flyboat*.
 [^4]: Fidella : aujourd'hui Fedala, ancien nom de Mohammedia, sur la côte atlantique du Maroc.
+
+---
+
+## Repères historiques
+
+**« nous nous embarquâmes [...] sur une Frégate appelée *La Royale* »** — Dieppe est en 1670 l'un des grands ports d'armement français vers les Antilles. Dès l'époque de Richelieu, la ville normande sert de point de départ pour la Martinique et la Guadeloupe. L'armateur Jean Ango en avait fait, sous François Ier, un centre du commerce transatlantique. Mais ce rôle décline dans le dernier tiers du XVIIe siècle, au profit des ports atlantiques comme Nantes et La Rochelle. En 1694, une flotte anglo-hollandaise bombardera Dieppe en représailles contre ses corsaires, ruinant définitivement le port.
+
+*Source : « Histoire du Port », Régie Port de Dieppe, [portdedieppe.fr](https://portdedieppe.fr/histoire-du-port/) ; « Les ports européens et les Antilles », [ahmuf.hypotheses.org](https://ahmuf.hypotheses.org/4780)*
+
+**« Capitaine des anciens Habitants de l'île de Saint-Christophe »** — Saint-Christophe (aujourd'hui Saint-Kitts) est le berceau de la colonisation française aux Antilles. En 1625, le Normand Pierre Belain d'Esnambuc s'y installe et partage l'île avec les Anglais de Thomas Warner. Avec le soutien de Richelieu, il fonde la Compagnie des îles de Saint-Christophe, qui deviendra la Compagnie des îles d'Amérique. C'est depuis Saint-Christophe que les Français colonisent ensuite la Martinique et la Guadeloupe. L'île sera finalement cédée à l'Angleterre par le traité d'Utrecht en 1713.
+
+*Source : « Saint-Christophe (colonie française) », Wikipédia, [fr.wikipedia.org](https://fr.wikipedia.org/wiki/Saint-Christophe_(colonie_fran%C3%A7aise))*
+
+**« nous fûmes mouiller l'ancre [...] aux Dunes, deux lieues au-delà de Douvres »** — Les « Dunes » désignent The Downs, un mouillage célèbre au large de Deal, dans le Kent. Protégé à l'est par les bancs de sable des Goodwin Sands et au nord par la côte, cet abri naturel servait depuis des siècles de point de rassemblement pour les flottes attendant un vent favorable pour descendre la Manche. En 1639, la marine hollandaise y avait détruit une flotte espagnole réfugiée dans les eaux anglaises lors de la fameuse bataille des Downs. Le mouillage était défendu par trois châteaux forts, dont celui de Deal, toujours visible aujourd'hui.
+
+*Source : « The Downs (ship anchorage) », Wikipedia, [en.wikipedia.org](https://en.wikipedia.org/wiki/The_Downs_(ship_anchorage)) ; « History of Deal Castle », English Heritage, [english-heritage.org.uk](https://www.english-heritage.org.uk/visit/places/deal-castle/history-stories/history/)*
+
+**« l'Escadre de l'Amiral Bleu d'Angleterre »** — La Royal Navy était alors divisée en trois escadres identifiées par des couleurs : Rouge, Blanc et Bleu. Chaque escadre avait son propre amiral, vice-amiral et contre-amiral. L'escadre Bleue, la troisième en ordre de préséance, arborait un pavillon entièrement bleu. Ce système, inauguré sous Elizabeth Ire pour organiser les grandes flottes, a perduré jusqu'en 1864. Ce spectacle de navires de guerre voguant en formation, trompettes et canonnades, devait être impressionnant pour un jeune Parisien de dix-neuf ans embarqué pour la première fois.
+
+*Source : « Coloured squadrons of the Royal Navy », Wikipedia, [en.wikipedia.org](https://en.wikipedia.org/wiki/Coloured_squadrons_of_the_Royal_Navy)*
+
+**« trois gros Vaisseaux Hollandais qui revenaient des côtes de Barbarie, où ils avaient brûlé quelques Corsaires de Salé »** — Les Provinces-Unies menaient régulièrement des expéditions punitives contre les ports corsaires du Maroc. Les corsaires de Salé, héritiers de la fameuse République du Bouregreg (1627-1668), étaient à l'origine des Morisques chassés d'Espagne, rejoints par des renégats européens et des marins locaux. Même après la prise de contrôle par le sultan alaouite Moulay Rachid en 1668, l'activité corsaire se poursuivait depuis l'embouchure du Bouregreg, protégée par ses hauts-fonds. En 1627, ces corsaires avaient poussé leurs raids jusqu'en Islande.
+
+*Source : « Pirates et corsaires de Salé », Wikipédia, [fr.wikipedia.org](https://fr.wikipedia.org/wiki/Pirates_et_corsaires_de_Sal%C3%A9) ; « République du Bouregreg », Wikipédia, [fr.wikipedia.org](https://fr.wikipedia.org/wiki/R%C3%A9publique_du_Bouregreg)*
+
+**« Ils portaient des Pavillons Turcs [...] ils nous dirent qu'ils étaient d'Alger »** — La ruse du faux pavillon était une tactique classique des corsaires barbaresques. Les navires de Salé se faisaient passer pour des Algérois, avec lesquels la France avait signé la paix, afin d'approcher sans méfiance les navires marchands. Des renégats parlant les langues européennes servaient d'intermédiaires pour rendre le piège crédible. Moüette dénonce explicitement cette ruse, qui permettait aussi bien aux Saletins qu'aux Algérois de capturer les vaisseaux français sous couvert de diplomatie.
+
+*Source : « Pavillons pirates et corsaires », Wikipédia, [fr.wikipedia.org](https://fr.wikipedia.org/wiki/Pavillon_de_pirates) ; « Stratégies, ruses et astuces », [corsaires.ca](http://www.corsaires.ca/_fr/ar_5030.html)*
+
+**« ce malheureux nous vendit ; car ayant pris de grandes assurances pour son Vaisseau »** — Le capitaine Beliart semble avoir contracté une assurance sur son navire avant le départ, puis livré délibérément l'équipage aux corsaires pour toucher l'indemnité. Cette accusation de trahison par appât du gain est remarquable : elle montre que l'assurance maritime, encore jeune en France (l'ordonnance de la Marine de Colbert qui en codifie les règles ne date que de 1681), pouvait déjà faire l'objet de fraudes. Le contraste entre la prudence du pilote, qui reconnaît le flibot signalé par les Hollandais, et la « crédulité » intéressée du capitaine, est saisissant.
+
+*Source : « L'assurance maritime à Dunkerque au XVIIIe siècle », Cairn.info, [cairn.info](https://cairn.info/revue-du-nord-2007-1-page-43.htm)*
+
+**« on nous mit les fers aux pieds, dix ensemble à une même chaîne »** — Les captifs chrétiens au Maroc vivaient dans des conditions extrêmement dures. Enchaînés par groupes, ils portaient des fers pesant jusqu'à dix-huit ou vingt livres chacun. Sous Moulay Ismaïl, qui succède à Moulay Rachid en 1672, la population captive au Maroc dépassera les 25 000 personnes. Beaucoup seront employés aux gigantesques chantiers du palais de Meknès, sous la menace constante du fouet. Moüette lui-même passera onze ans en captivité, apprenant l'arabe et l'espagnol auprès d'un de ses maîtres.
+
+*Source : « Le Maroc sous Moulay Ismail, prison à ciel ouvert pour les esclaves chrétiens », Yabiladi, [yabiladi.com](https://www.yabiladi.com/articles/details/76618/histoire-maroc-sous-moulay-ismail.html) ; « Le Maroc du XVIIe siècle dans le récit de captivité de Germain Mouette », [revues.imist.ma](https://revues.imist.ma/index.php/archetype/article/download/49912/26098/138983)*
+
+**« le Chevalier de Malte, fils de la Dame de la Montagne, reçut quelques coups de Cimeterre »** — L'Ordre de Malte (les Hospitaliers de Saint-Jean de Jérusalem) avait pour mission officielle la « police des mers » contre les corsaires barbaresques. Ses chevaliers, souvent de jeunes nobles, s'entraînaient sur les galères de l'Ordre en Méditerranée. Capturer un chevalier de Malte représentait pour les corsaires un butin symbolique autant que financier, car l'Ordre payait généralement de bonnes rançons. L'ironie est cruelle : ce jeune chevalier, formé pour combattre les Barbaresques, se retrouve lui-même captif.
+
+*Source : « Corsaires de la foi ou rentiers du sol ? Les chevaliers de Malte dans le "corso" méditerranéen au XVIIe siècle », Persée, [persee.fr](https://www.persee.fr/doc/rhmc_0048-8003_1988_num_35_3_1455)*
+
+**« Un Corsaire Anglais qui attendait le retour de ceux-ci »** — La présence d'un corsaire anglais croisant au large de Salé n'est pas un hasard. L'Angleterre, puissance navale montante, avait ses propres intérêts à protéger contre les Barbaresques et entretenait une relation ambiguë avec le Maroc, faite de commerce, de diplomatie et de représailles militaires. Dès 1636, la flotte anglaise avait bombardé la Kasbah de Salé pour mettre fin à une guerre civile entre factions corsaires. Ce navire anglais, avec seulement cinquante hommes à bord, tente néanmoins de libérer les captifs à coups de canon, poussant le corsaire de Moüette à s'échouer sur des rochers.
+
+*Source : « République du Bouregreg », Wikipédia, [fr.wikipedia.org](https://fr.wikipedia.org/wiki/R%C3%A9publique_du_Bouregreg)*

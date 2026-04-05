@@ -60,3 +60,47 @@ Ceux qui ont signé au-dessous de moi étaient tous Captifs à Mequinez quand ce
 
 [^1]: Truchement : interprète.
 [^2]: Fequirs : du terme arabe *fuqaha* (singulier *faqih*), docteurs ou jurisconsultes de la loi islamique.
+
+---
+
+## Repères historiques
+
+**« Bernard Bausset, de la famille des Bausset, anciens Consuls de Marseille, natif de la ville d'Aubagne en Provence »** — Les Bausset ne sont pas n'importe qui. Établis près d'Aubagne dès le XIVe siècle, ils accèdent au consulat de Marseille au XVIe siècle grâce au commerce maritime. Pierre Bausset, élu dernier consul de Marseille en 1536, acquiert la seigneurie de Roquefort en 1569. C'est aussi dans l'hôtel de Bausset à Aubagne qu'est ourdi en 1596 le complot qui permet à Henri IV de reprendre Marseille. Bernard est donc issu d'une lignée habituée au pouvoir et au risque — ce qui explique peut-être son sang-froid devant les lions.
+
+*Source : « Famille de Bausset-Roquefort », [Wikipédia](https://fr.wikipedia.org/wiki/Famille_de_Bausset-Roquefort) ; « L'hôtel de Bausset », [Ville d'Aubagne](https://www.aubagne.fr/patrimoine/patrimoine-architectural/lhotel-de-bausset-maison-du-complot/)*
+
+**« Il le fit dépouiller tout nu. Deux Noirs, avec chacun une poignée de courroies, lui donnèrent plus de cinq cents coups »** — La brutalité de Moulay Ismaïl envers les esclaves chrétiens est abondamment documentée. Surnommé le « roi sanguinaire » par les Européens, il aurait, selon certaines sources, tué 20 000 personnes de ses propres mains au cours de son règne (1672-1727). Plus de 25 000 captifs européens ont été détenus au Maroc sous son autorité, employés notamment à la construction de son immense palais de Meknès sous la menace constante du fouet. Le châtiment infligé à Bausset, pour quelques brins de paille, n'a rien d'exceptionnel dans ce contexte.
+
+*Source : « Les exécutions sanglantes de Moulei Ismaël et les captifs chrétiens », [Persée](https://www.persee.fr/doc/hispa_0007-4640_1933_num_35_4_2597) ; « Le Maroc sous Moulay Ismail, prison à ciel ouvert pour les esclaves chrétiens », [Yabiladi](https://www.yabiladi.com/articles/details/76618/histoire-maroc-sous-moulay-ismail.html)*
+
+**« Il commanda à ses Gardes de le jeter dans le Parc aux Lions… Ce Parc est entre quatre hautes murailles »** — La ménagerie royale de Meknès, appelée *douyret es-sbaa* (« la maison du lion »), faisait partie intégrante du complexe palatial. Les lions qu'on y gardait étaient des lions de l'Atlas (*Panthera leo leo*), aussi appelés lions de Barbarie : des fauves à la crinière exceptionnellement volumineuse et sombre, bien plus imposants que leurs cousins subsahariens. Éteinte à l'état sauvage depuis le milieu du XXe siècle (le dernier spécimen libre aurait été abattu en 1942 dans l'Atlas marocain), cette sous-espèce ne survit aujourd'hui qu'en captivité, notamment au zoo de Témara près de Rabat.
+
+*Source : « Lion de l'Atlas », [Wikipédia](https://fr.wikipedia.org/wiki/Lion_de_l'Atlas) ; « Lions, saints et sultans au Maroc », [Éditions de la Sorbonne](https://books.openedition.org/psorbonne/27605?lang=en)*
+
+**« Notre Captif, comme un nouveau Daniel, louait Dieu au milieu de ces bêtes cruelles »** — La comparaison avec Daniel dans la fosse aux lions (Daniel 6) n'est pas un ornement littéraire anodin. Depuis l'Antiquité tardive, « Daniel aux lions » constitue un stéréotype majeur de l'imagerie chrétienne, présent dans les catalogues de martyrs et les listes d'hommes miraculeusement sauvés par Dieu. Moüette inscrit délibérément le récit de Bausset dans cette tradition hagiographique : la résistance à l'apostasie, l'exposition aux fauves, la protection divine — tout le schéma narratif du livre de Daniel est reproduit, transformant un fait divers de captivité en exemplum de la foi.
+
+*Source : « Daniel dans la fosse aux lions. Lecture de Dn 6 dans l'Église ancienne », [Persée](https://www.persee.fr/doc/rscir_0035-2217_1998_num_72_1_3430)*
+
+**« Une Captive Espagnole… Maria de la Conception, native de Sanlúcar de Barrameda… venue à La Mamora pour retirer son mari »** — La Mamora (aujourd'hui Mehdya) était une forteresse tenue par les Espagnols depuis 1614, prise par Moulay Ismaïl le 3 mai 1681, quelques mois seulement après l'épisode des lions. Sanlúcar de Barrameda, port andalou sur l'estuaire du Guadalquivir, était une plaque tournante du commerce avec les présides espagnols au Maroc. Le portrait que Moüette dresse de Maria — « mère commune de tous les affligés » qui intercède auprès du sultan pour Maures et chrétiens — révèle le rôle diplomatique informel que certaines captives pouvaient jouer dans l'entourage royal.
+
+*Source : « Siege of La Mamora (1681) », [Wikipedia](https://en.wikipedia.org/wiki/Siege_of_La_Mamora_(1681)) ; « Mehdya, Morocco », [Wikipedia](https://en.wikipedia.org/wiki/Mehdya,_Morocco)*
+
+**« Tous ses Pages coururent à l'envi… il les fit tous revenir, et à coups de cimeterre en jeta huit sur le carreau »** — On notera l'ironie terrible de la scène : le sultan ordonne de sauver Bausset, mais ses pages, trop empressés, l'abandonnent seul sous le porche. Sa réaction — frapper huit d'entre eux au sabre — illustre une violence imprévisible et capricieuse, que le père Dominique Busnot, aumônier trinitaire, a également décrite dans son *Histoire du règne de Moulay Ismaïl* (1714). Le moindre manquement au protocole pouvait déclencher une fureur meurtrière.
+
+*Source : Dominique Busnot, *Histoire du règne de Moulay Ismaïl*, 1714 ; « Quelques cas d'évasions de captifs chrétiens au Maroc », [OpenEdition](https://journals.openedition.org/cdlm/7262)*
+
+**« Les Lions n'eurent pas le même respect pour trois Fequirs… ils furent aussitôt mis en pièces »** — Le contraste est voulu par Moüette : les docteurs de la loi islamique, qui avaient osé critiquer la cruauté du sultan, sont dévorés là où le chrétien Bausset a été épargné. Ce parallèle sert évidemment l'argumentaire apologétique du récit, mais il témoigne aussi d'une réalité politique : Moulay Ismaïl ne tolérait aucune remontrance, fût-elle fondée sur la charia. Son pouvoir absolu s'exerçait au-dessus de toute autorité religieuse.
+
+*Source : « Ismaïl ben Chérif », [Wikipédia](https://fr.wikipedia.org/wiki/Isma%C3%AFl_ben_Ch%C3%A9rif)*
+
+**« J'ai remis entre les mains des Révérends Pères de la Merci de Paris »** — L'Ordre de Notre-Dame-de-la-Merci, fondé en 1218 par Pierre Nolasque, est l'un des deux ordres rédempteurs (avec les Trinitaires) voués au rachat des captifs chrétiens en terre musulmane. Ses membres ajoutaient un quatrième vœu aux trois vœux monastiques traditionnels : se livrer eux-mêmes en otage si nécessaire pour libérer des prisonniers. Entre 1617 et 1719, l'ordre a mené environ 85 rédemptions en Afrique du Nord, libérant plus de 16 000 captifs. C'est par leur entremise que Moüette lui-même fut racheté en février 1681, avec quarante-cinq autres prisonniers.
+
+*Source : « Les Ordres de rachat. Les Mercédaires », [Persée](https://www.persee.fr/doc/cafan_0575-061x_1978_act_13_1_1207) ; « L'Ordre de Notre Dame de la Merci », [Yabiladi](https://www.yabiladi.com/articles/details/77205/histoire-l-ordre-notre-dame-merci.html)*
+
+**« Se recommandait à Notre-Dame protectrice des Captifs et à Sainte Anne »** — L'invocation de « Notre-Dame protectrice des Captifs » renvoie directement à la dévotion mariale des Mercédaires. Selon la tradition, la Vierge serait apparue simultanément à Pierre Nolasque, à Raymond de Peñafort et au roi Jacques Ier d'Aragon dans la nuit du 1er au 2 août 1218, leur ordonnant de fonder l'ordre. La fête de Notre-Dame de la Merci, fixée au 24 septembre, a été étendue à l'Église universelle par Innocent XII en 1696 — soit treize ans après la publication du récit de Moüette, qui contribuait ainsi à populariser ce culte.
+
+*Source : « Notre-Dame de la Merci et la libération des esclaves », [Encyclopédie Mariale](https://codexdei.mariedenazareth.com/encyclopedie-mariale/doctrine/autres-elements-sur-la-doctrine-chretienne/la-doctrine-sociale-de-leglise-marie-et-joseph/marie-joseph-la-liberation-des-esclaves-des-prisonniers-des-drogues-etc/n-d-de-la-merci-et-la-liberation-des-esclaves-memoire-le-24-septembre/) ; « Ordre de Notre-Dame de la Merci », [Wikipédia](https://fr.wikipedia.org/wiki/Ordre_de_Notre-Dame-de-la-Merci)*
+
+**« L'Attestation authentique… faite en la ville de Tétouan en Afrique, le 18 Avril 1681 »** — Ce document, signé par vingt personnes dont Bausset lui-même et deux religieux de la Merci, est un cas rare d'« acte notarié » produit en captivité. Les signataires viennent de toute la France — Marseille, Saint-Malo, Rouen, Brest, Nantes, La Rochelle, Pontoise, Paris — ce qui dessine une géographie de la capture corsaire au XVIIe siècle. L'attestation, rédigée à Tétouan deux mois après les faits, vise à donner un statut juridique au miracle en vue d'une éventuelle reconnaissance ecclésiastique. Ce souci de preuve documentaire, typique de la Contre-Réforme, montre que Moüette écrit aussi pour convaincre les sceptiques.
+
+*Source : Germain Moüette, *Relation de la captivité du Sr Moüette*, Paris, 1683 ; « Germain Moüette, récit d'un captif français », [Yabiladi](https://www.yabiladi.com/articles/details/86372/germain-mouette-recit-d-un-captif.html)*

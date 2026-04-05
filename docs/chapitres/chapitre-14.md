@@ -129,3 +129,43 @@ Après que le Cadi eut prononcé cette sentence, il renvoya les Captifs dans le 
 [^7]: Cadi : juge musulman rendant la justice selon la loi islamique.
 [^8]: Alcassar : aujourd'hui Ksar el-Kebir, ville du nord du Maroc.
 [^9]: Meknès : l'original porte « Miquenes ». Capitale du sultan Mouley Ismaïl.
+
+---
+
+## Reperes historiques
+
+**« son Pere, qui etait tres noble, exerca trois diverses fois la Charge de Corregidor »** — Le corregidor etait le representant direct du roi dans les villes espagnoles, charge du maintien de l'ordre et de la justice municipale. A Tolede, ancienne capitale imperiale, cette fonction etait particulierement prestigieuse. Exercer trois fois cette charge temoigne d'une famille solidement enracinee dans l'elite urbaine. Mais au XVIIe siecle, Tolede avait perdu son rang au profit de Madrid, et les grandes familles s'y livraient a des querelles de lignages — dont celle qui allait causer la ruine des Veras.
+
+*Source : « Tolede », Wikipedia, [https://fr.wikipedia.org/wiki/Tol%C3%A8de](https://fr.wikipedia.org/wiki/Tol%C3%A8de)*
+
+**« la Marquise de ...., l'une des plus belles Dames de la Cour, fut tellement eprise de son merite »** — Le fait que Mouette masque le nom de la Marquise par des points de suspension n'est pas un simple artifice litteraire. En 1683, date de publication du recit, les familles concernees etaient probablement encore puissantes a Madrid. Les billets amoureux reproduits in extenso, que Mouette dit avoir copies sur les originaux montres par Dom Raphael, donnent au recit une authenticite rare pour l'epoque — a mi-chemin entre le temoignage et le roman sentimental a la mode espagnole.
+
+*Source : Germain Mouette, « Relation de la captivite du Sieur Mouette dans les Royaumes de Fez et de Maroc », Paris, Jean Cochart, 1683*
+
+**« on le jeta dans un Carrosse qui le mena hors Madrid [...] par Tolede, Panojerbo, Rofatan, Malagon, Ciudad-Real [...] Puerto Real »** — Cet itineraire detaille, traversant toute la Castille puis l'Andalousie jusqu'a Cadix, permet de reconstituer la route exacte de l'exil de Dom Raphael. Le trajet couvre environ 600 kilometres a travers la Sierra Morena, la grande chaine montagneuse qui separe la Castille de l'Andalousie. C'etait alors un parcours redoute, infeste de bandits. Le choix de Larache comme destination d'exil etait un classique de la justice espagnole : on envoyait les indesirables dans les presidios nord-africains, forteresses isolees ou la vie etait dure et la mort frequente.
+
+*Source : « Larache », Wikipedia, [https://en.wikipedia.org/wiki/Larache](https://en.wikipedia.org/wiki/Larache)*
+
+**« Gayland fit defiler ses Troupes [...] et commenca de faire donner l'assaut a la ville »** — Le prince Gayland (Khadir Ghailan) etait le seigneur de guerre le plus redoutable du nord du Maroc dans les annees 1660. Depuis sa base de Ksar el-Kebir, il controlait le Gharb, le Rif et les zones cotieres autour de Tanger. Il harcelait aussi bien les Espagnols de Larache que les Anglais de Tanger. Ce n'est qu'en 1672 que Moulay Rachid mit fin a son pouvoir en le tuant. L'assaut decrit par Mouette, avec ses echelles et ses vingt mille hommes, est l'un des rares temoignages detailles d'une attaque maure contre un presidio espagnol.
+
+*Source : « Khadir Ghailan », Wikipedia, [https://en.wikipedia.org/wiki/Khadir_Gha%C3%AFlan](https://en.wikipedia.org/wiki/Khadir_Gha%C3%AFlan)*
+
+**« Dom Raphael se chargea d'y mettre le feu pour jeter sur les assaillants [...] plusieurs grenades le blesserent legerement au visage »** — La defense des presidios espagnols reposait sur un arsenal improvise mais meurtrier : barils de poix et de soufre, pots a feu, grenades, pierriers charges de ferraille. Les garnisons, souvent composees de soldats exiles et de bagnards, se battaient avec le desespoir de ceux qui n'ont rien a perdre. Le detail de la barque genoise qui « defit plus des deux tiers » des assaillants montre le role crucial de la puissance navale dans la defense de ces avant-postes cotiers.
+
+*Source : « Larache: An Old Spanish Colony in Morocco », Black Gate, [https://www.blackgate.com/2016/01/20/larache-an-old-spanish-colony-in-morocco/](https://www.blackgate.com/2016/01/20/larache-an-old-spanish-colony-in-morocco/)*
+
+**« il fut une nuit bien obscure faire sentinelle sur le bord de la Riviere [...] il la traversa a la nage pour se rendre aux ennemis »** — L'evasion de Dom Raphael obeissait aux instructions de la Marquise, qui lui ecrivait de se rendre a Gayland pour qu'elle puisse payer sa rancon. Ce plan — quitter un presidio espagnol pour se jeter volontairement dans les bras de l'ennemi — etait un pari extremement risque. La sentinelle qui le blessa d'un coup de feu a la cuisse en dit long sur la vigilance des garnisons, hantees par les desertions. En passant chez les Maures, Dom Raphael troquait un exil contre une captivite, mais avec l'espoir d'un rachat.
+
+*Source : « Portuguese City of Mazagan (El Jadida) », UNESCO, [https://whc.unesco.org/en/list/1058/](https://whc.unesco.org/en/list/1058/)*
+
+**« ils entrerent dans une Matamore [...] les Lions durant toute la nuit ne firent que roder et rugir a l'entour »** — Les matamores etaient des silos souterrains creuses dans le sol, profonds de trois a quatre metres, avec une ouverture etroite de moins de soixante centimetres. Utilises depuis l'Antiquite au Maghreb pour stocker les cereales, ils pouvaient aussi servir de prison ou, comme ici, de refuge improvise. Le climat sec et chaud du Maroc permettait d'y conserver le grain plusieurs annees. Que Dom Raphael et son compagnon y trouvent abri contre les lions de l'Atlas est un usage inattendu mais parfaitement logique de ces structures.
+
+*Source : « Les structures traditionnelles de stockage des cereales au Maroc », Quintessences, [http://quintessences.unblog.fr/2017/10/05/les-structures-traditionnelles-de-stockage-des-cereales-au-maroc/](http://quintessences.unblog.fr/2017/10/05/les-structures-traditionnelles-de-stockage-des-cereales-au-maroc/)*
+
+**« Ce Taleb se fait conduire au lieu ou il couchait avant de s'enfuir [...] il marmotte ensuite sur la place ou sur les hardes »** — Mouette decrit ici un rituel magique pratique par les talebs (lettres religieux) pour empecher la fuite des esclaves. La croyance en ces sortileges etait si repandue que meme les captifs chretiens, comme Dom Raphael, semblaient y accorder un certain credit — ou du moins jugeaient prudent de « se munir du signe des Chretiens » (le signe de croix) pour s'en proteger. Ce melange de foi et de superstition, partage par les deux bords, est un trait fascinant de la vie quotidienne en Barbarie.
+
+*Source : « Le Maroc du XVIIe siecle dans le recit de captivite de Germain Mouette », Archetype, [https://revues.imist.ma/index.php/archetype/article/download/49912/26098/138983](https://revues.imist.ma/index.php/archetype/article/download/49912/26098/138983)*
+
+**« Dom Raphael fut heureusement du nombre de ceux que la Redemption d'Espagne racheta en l'annee 1680 »** — Les « redemptions » etaient des missions organisees par les ordres religieux — principalement les Mercedaires en Espagne et les Trinitaires en France — pour racheter les captifs chretiens en terre musulmane. Entre 1617 et 1719, l'Ordre de la Merci mena environ 85 missions de rachat en Afrique du Nord, liberant pres de 16 000 captifs, dont 12 missions generales au Maroc. Le cout d'un rachat depassait generalement 200 ecus par personne, sans compter les cadeaux obligatoires au sultan et aux gouverneurs. Pour Dom Raphael, apres tant d'annees d'epreuves, c'etait enfin la delivrance.
+
+*Source : « Ordre redempteur », Wikipedia, [https://fr.wikipedia.org/wiki/Ordre_pour_le_rachat_des_captifs](https://fr.wikipedia.org/wiki/Ordre_pour_le_rachat_des_captifs)*

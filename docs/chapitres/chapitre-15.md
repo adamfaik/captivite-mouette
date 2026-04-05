@@ -84,3 +84,39 @@ Si leurs amours eussent duré plus longtemps, sans doute qu'elles eussent été 
 [^2]: Chiquant : bourreau.
 [^3]: Rossolis : liqueur sucrée à base d'eau-de-vie, aromatisée d'épices ou de plantes.
 [^4]: Felous : petite monnaie de cuivre en usage au Maroc.
+
+---
+
+## Reperes historiques
+
+**« gentilhomme du Duche de Longueville en Normandie »** — Le duche de Longueville, en pays de Caux, etait l'un des grands fiefs normands. En 1663, a l'epoque ou le sieur de la Place devait etre enfant, le duc Henri II de Longueville — gouverneur de Normandie, frondeur repenti et negociateur du traite de Westphalie — venait de mourir. La petite noblesse normande qui dependait de ce duche fournissait volontiers des cadets aux expeditions maritimes et coloniales. Etre envoye en Angleterre puis embarque pour l'Amerique etait un parcours typique pour un cadet turbulent de bonne famille.
+
+*Source : « Comte puis duche de Longueville », Wikipedia, [https://fr.wikipedia.org/wiki/Comt%C3%A9_puis_duch%C3%A9_de_Longueville](https://fr.wikipedia.org/wiki/Comt%C3%A9_puis_duch%C3%A9_de_Longueville)*
+
+**« il commenca a jurer forces Son of a whore et Son of a dog de Frenchman, en mettant la main a l'epee »** — Mouette reproduit les jurons anglais en langue originale, ce qui est remarquable pour un auteur francais du XVIIe siecle. L'episode aux Dunes (probablement les Downs, le mouillage du comte de Kent) montre la tension permanente entre Francais et Anglais dans les ports. Que les demoiselles soient « filles du Recteur de l'Universite d'Oxford » ajoute un element comique : le galant normand avait pris des filles de bonne famille pour des courtisanes, ce qui failli lui couter cher.
+
+*Source : Germain Mouette, « Relation de la captivite du Sieur Mouette dans les Royaumes de Fez et de Maroc », Paris, Jean Cochart, 1683*
+
+**« Lella Rahema, femme de l'Alcayde son Patron, le faisait entrer souvent dans la chambre afin de l'ecouter [...] lui faire toucher un Luth »** — La musique etait l'un des rares ponts culturels entre maitres maures et esclaves chretiens. Le luth (al-oud), instrument d'origine arabe adopte en Europe, revenait ici a ses origines. Les femmes de l'elite marocaine, souvent confinees dans leurs demeures, etaient avides de divertissement et la musique etait l'une des rares activites acceptees. Un esclave musicien jouissait d'un statut privilegie qui lui ouvrait les portes du harem — au sens propre comme au figure.
+
+*Source : « Public et prive en Islam — Le harem de Mawlay Ismail : un despotisme exemplaire ? », OpenEdition Books, [https://books.openedition.org/irmc/263](https://books.openedition.org/irmc/263)*
+
+**« elles y menaient avec elles le Sieur de la Place deguise en fille [...] restait au milieu des autres femmes qui toutes nues se baignaient devant lui »** — Le hammam public etait le seul espace de sociabilite autorise pour les femmes marocaines en dehors du foyer. Lieu de bain, d'echange de nouvelles, de preparation des mariages et de celebration des naissances, c'etait un monde exclusivement feminin. Le fait que les dames de l'Alcayde osent y introduire un esclave chretien deguise en femme montre une audace extraordinaire. L'episode est d'autant plus piquant que Mouette rapporte les faits sans les condamner, avec une sorte d'admiration amusee.
+
+*Source : « Hammam in Marrakech History of Ancestral Ritual », Alksar, [https://www.alksar.com/en/hammam-in-marrakech-history/](https://www.alksar.com/en/hammam-in-marrakech-history/)*
+
+**« les Chretiens captifs peuvent entrer partout dans les maisons de leurs Maitres [...] disant que nous sommes aveugles des yeux du corps aussi bien que de ceux de l'ame »** — Cette croyance que les chretiens etaient « aveugles » — c'est-a-dire incapables de voir vraiment, au sens spirituel — est un paradoxe fascinant. Elle reposait sur l'idee que, n'ayant pas la « lumiere » de l'islam, les captifs ne pouvaient porter un regard signifiant sur les femmes musulmanes. Cette fiction commode arrangeait tout le monde : les maris rassures, les femmes libres de leurs mouvements, et les esclaves admis dans des espaces normalement interdits. Mouette, avec ironie, montre combien cette « cecite » etait selective.
+
+*Source : « Eros en Barbarie aux XVIIe et XVIIIe siecles », CRLV, [https://crlv.org/conference/eros-en-barbarie-aux-xviie-et-xviiie-si%C3%A8cles](https://crlv.org/conference/eros-en-barbarie-aux-xviie-et-xviiie-si%C3%A8cles)*
+
+**« les Arifas (qui sont les Gouvernantes sous les Reines) [...] venaient de concert par-dessus ces Terrasses achever de passer les nuits aupres de nos Esclaves »** — Les arifas etaient des femmes de confiance chargees de l'administration interne du serail royal. A Meknes, le harem de Moulay Ismail abritait entre 600 et 1 400 femmes selon les sources, chacune assistee d'un eunuque et d'une servante. Les arifas, qui ne sortaient jamais du palais, disposaient neanmoins d'une autorite considerable. Que ces gouvernantes traversent les terrasses la nuit pour rejoindre les esclaves chretiens loges dans un batiment adjacent est un detail que seul un temoin direct pouvait connaitre — et que Mouette rapporte avec une discretion calculee.
+
+*Source : « Le harem de Mawlay Ismail : un despotisme exemplaire ? », OpenEdition Books, [https://books.openedition.org/irmc/263](https://books.openedition.org/irmc/263)*
+
+**« lesquels tenaient toujours prets du Rossolis pour les regaler, avec du meilleur Tabac de Bresil »** — Le rossolis etait la liqueur a la mode sous Louis XIV, un melange d'eau-de-vie, de sucre et d'essences de plantes, fabrique par l'apothicaire royal Fagon en personne pour le Roi-Soleil. Que des esclaves chretiens en proposent aux gouvernantes du serail, accompagne de tabac bresilien, montre l'existence de reseaux d'approvisionnement clandestins au coeur meme du palais. Ces produits interdits par l'islam — alcool et tabac — circulaient manifestement sans grande difficulte dans les coulisses du pouvoir alaouite.
+
+*Source : « Rossolis », Dictionnaire de l'Academie francaise, 9e edition, [https://www.dictionnaire-academie.fr/article/A9R2988](https://www.dictionnaire-academie.fr/article/A9R2988)*
+
+**« Le Cady connait de tout ce qui est contre la Loi. Le Gouverneur pour le Civil et pour le Criminel [...] Et le Haquem n'est que pour la Police »** — Mouette decrit un systeme judiciaire a trois niveaux remarquablement organise. Le cadi (juge religieux) appliquait la charia, le gouverneur representait l'autorite du sultan, et le haquem (muhtasib) veillait a la police des marches. La procedure etait orale, rapide et sans frais — un contraste saisissant avec la justice francaise de l'epoque, lente, couteuse et ecrasee sous la paperasse. Les deux cents coups de baton pour defaut de comparution avaient au moins le merite de decourager les manoeuvres dilatoires.
+
+*Source : « Droit musulman — Organisation judiciaire et procedure », Presses universitaires d'Aix-Marseille, [https://books.openedition.org/puam/1047](https://books.openedition.org/puam/1047)*

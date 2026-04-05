@@ -59,3 +59,47 @@ Ils font une matamore assez profonde, sur la bouche de laquelle ils mettent une 
 [^5]: « Mofa » dans l'original ; vraisemblablement l'oued Massa.
 [^6]: Azamor dans l'original ; aujourd'hui Azemmour.
 [^7]: Saphye dans l'original ; aujourd'hui Safi.
+
+---
+
+## Repères historiques
+
+**« il voulut avant que de le faire les rétablir tout de neuf »** — Moulay Ismaïl ne se contentait pas de restaurer Meknès : il voulait en faire une capitale rivale de Versailles. Les travaux mobilisèrent au moins 25 000 esclaves — chrétiens capturés par les corsaires de Salé, prisonniers de guerre et criminels de droit commun — qui travaillaient quinze heures par jour sous la menace constante du fouet. Le chantier dura des décennies et transforma une petite ville de garnison en une cité impériale ceinte de murailles sur plus de 25 kilomètres.
+
+*Source : Giles Milton, White Gold: The Extraordinary Story of Thomas Pellow and Islam's One Million White Slaves, Hodder & Stoughton, 2004 ; « History: When Moulay Ismail put Christian slaves to hard labor in Meknes », Yabiladi.com (https://en.yabiladi.com/articles/details/76617)*
+
+**« un Noir d'une hauteur prodigieuse, d'un regard épouvantable »** — Les surveillants des chantiers de Meknès appartenaient souvent à la Garde noire (Abid al-Bukhari), un corps militaire d'élite constitué par Moulay Ismaïl à partir d'esclaves sub-sahariens. Dès l'âge de dix ans, les enfants de ces familles étaient formés au service du sultan ; à seize ans, les plus aptes intégraient l'armée. Ce corps, qui compta jusqu'à 150 000 hommes, était l'instrument de la terreur royale sur les chantiers comme sur les champs de bataille.
+
+*Source : « Black Guard », Wikipedia (https://en.wikipedia.org/wiki/Black_Guard) ; « ABID AL BOUKHARI, the Black Guard of Morocco », ayahchoukri.com (https://www.ayahchoukri.com/abid-al-boukhari-the-black-guard-of-morocco-rise-power-and-fall-of-moulay-ismails-elite-army-2/)*
+
+**« il contrefaisait le Chirurgien pitoyable en y appliquant de la chaux vive pour arrêter le sang »** — L'application de chaux vive sur une plaie ouverte est un acte de cruauté pure : la substance provoque une brûlure chimique intense. Si la chaux éteinte (hydroxyde de calcium) pouvait parfois servir de cautérisant rudimentaire dans la médecine populaire, la chaux vive (oxite de calcium) réagit violemment au contact du sang et de l'eau, aggravant la blessure. Ce geste du garde résume toute l'ironie sadique du système : faire passer la torture pour du soin.
+
+*Source : détail tiré du texte de Moüette, corroboré par Giles Milton, White Gold, Hodder & Stoughton, 2004, chap. sur les conditions de travail à Meknès*
+
+**« faire la guerre à Mouley Hamet son neveu, qu'on avait élu Roi de Maroc »** — Le règne de Moulay Ismaïl fut marqué par une longue guerre civile contre son neveu Ahmad ben Mehrez, qui lui disputait le trône depuis Marrakech. Le conflit dura de 1672 à la mort d'Ahmad en 1687. Pendant les absences du sultan — parfois de plusieurs années —, les captifs étaient livrés à l'arbitraire total des gardiens locaux, sans aucun recours.
+
+*Source : « Ismail Ibn Sharif », Wikipedia (https://en.wikipedia.org/wiki/Ismail_Ibn_Sharif) ; « Ismail Ibn Sharif », Britannica (https://www.britannica.com/biography/Ismail-Alawi-ruler-of-Morocco)*
+
+**« la peste dont il affligea tout le pays, laquelle commença en l'année 1678 »** — L'épidémie de peste de 1678 fut l'une des plus dévastatrices qu'ait connues le Maghreb. Selon les chroniqueurs, elle ravagea simultanément le Maroc et l'Algérie ; certaines sources avancent le chiffre — sans doute exagéré — de quatre millions de morts dans la région. Moüette note que sur 200 captifs chrétiens, une cinquantaine furent touchés, dont les deux tiers moururent, un taux de mortalité bien inférieur à celui de la population locale. Les frontières de l'Empire furent fermées dès 1679.
+
+*Source : Noah Webster, A Brief History of Epidemic and Pestilential Diseases, 1799 ; « Authorities' measures towards pandemics in Moroccan History », FUNCI (https://funci.org/authorities-measures-towards-pandemics-in-moroccan-history/?lang=en)*
+
+**« l'Antienne Stella cœli extirpavit »** — Ce chant marial contre la pestilence remonte, selon la tradition, à 1317, quand saint Barthélemy serait apparu sous les traits d'un mendiant au couvent des clarisses de Coïmbra, au Portugal, leur remettant cette prière qui les protégea de l'épidémie. Imprimée à Barcelone en 1677 — un an avant la peste décrite par Moüette —, l'antienne était alors largement répandue dans le monde catholique méditerranéen. Le fait que des captifs enchaînés à Meknès la récitent témoigne de la circulation remarquable des pratiques dévotionnelles jusque dans les bagnes les plus reculés.
+
+*Source : « Plague, Performance and the Elusive History of the Stella celi extirpavit », Early Music History, Cambridge University Press (https://www.cambridge.org/core/journals/early-music-history/article/abs/plague-performance-and-the-elusive-history-of-the-stella-celi-extirpavit/FCFA7A5DACA05F7C2D3B21A6AF1E09B6) ; « Stella Caeli – a hymn against pestilence », CCWatershed.org (https://www.ccwatershed.org/2020/03/13/stella-caeli-a-hymn-against-pestilence/)*
+
+**« je fus élu Trésorier de la Confrérie… établie sous le titre de Notre-Dame de la Miséricorde »** — Les confréries de captifs étaient de véritables micro-sociétés organisées au sein des bagnes. Celle que décrit Moüette — avec son trésorier, son écrivain et ses douze confrères élus annuellement — fonctionnait comme une mutuelle de secours, financée par la vente clandestine d'eau-de-vie et les quêtes du soir. Ces structures permettaient aux captifs de maintenir une vie communautaire, de soigner leurs malades et de préserver leur identité religieuse face à la pression de la conversion à l'islam.
+
+*Source : Germain Moüette, Relation de la Captivité, 1683 ; « Les captifs européens en terre marocaine aux XVIIe et XVIIIe siècles », Cahiers de la Méditerranée (https://journals.openedition.org/cdlm/pdf/45)*
+
+**« il n'avait qu'à leur faire donner trois ou quatre tassées de vin à chacun »** — L'anecdote du vin offert aux esclaves par le roi pour accélérer le travail est un épisode savoureux de pragmatisme économique. L'islam interdit la consommation d'alcool, mais la production et la vente de vin restaient tolérées chez les juifs du Maroc, qui étaient les fournisseurs attitrés. Moulay Ismaïl, tout en punissant sévèrement les musulmans qui buvaient, n'hésita pas à instrumentaliser l'alcool comme stimulant de productivité — allant jusqu'à ordonner par lettre de cachet la fourniture hebdomadaire de raisins secs et de figues pour la distillation d'eau-de-vie.
+
+*Source : « Le vin au Maroc précolonial. De la discrétion à l'exhibition », Hespéris-Tamuda, via Persée (https://www.persee.fr/doc/horma_0984-2616_2006_num_55_1_2380)*
+
+**« le plus magnifique de toute l'Afrique… il fit battre en feuilles [l'or] pour couvrir toutes les murailles »** — Le palais décrit par Moüette est le célèbre palais El Badi de Marrakech, construit par le sultan saadien Ahmad al-Mansur al-Dhahabi (« le Doré ») à partir de 1578, après sa victoire à la bataille des Trois Rois. Décoré d'or du Soudan, d'onyx d'Inde et de marbre d'Italie, il fut en son temps l'un des édifices les plus somptueux du monde musulman. Au moment où Moüette en entend parler, le palais est déjà en cours de démantèlement : Moulay Ismaïl en fait arracher les matériaux précieux pour les réemployer dans ses propres constructions à Meknès.
+
+*Source : « El Badi Palace », Wikipedia (https://en.wikipedia.org/wiki/El_Badi_Palace) ; « El Badi Palace: Marrakech's Greatest Untold Story », story-rabat.com (https://story-rabat.com/blog/travel/el-badi-palace-morocco/)*
+
+**« Mon Cousin évita d'être frappé en s'approchant d'un autre qui était tout couvert de sang »** — Cette ruse de Claude Loyer la Garde, cousin de Moüette, qui se barbouille le visage du sang d'un autre pour feindre d'avoir déjà été battu, est un trait de survie typique du monde des captifs. Les récits de captivité en Barbarie fourmillent de ces stratagèmes désespérés. L'épisode rappelle aussi la violence personnelle du sultan : Moulay Ismaïl est décrit par de nombreuses sources comme frappant lui-même ses esclaves, parfois à mort, pour des motifs dérisoires — comme ici, une tente mal dressée.
+
+*Source : « The Bloody Reign of Sultan Moulay Isma'il Ibn Sharif of 17th Century Morocco », African Research Consult (https://african-research.com/research/african-countries/the-bloody-reign-of-sultan-moulay-ismail-ibn-sharif-of-17th-century-morocco/) ; « Sultan Moulay Ismail, Lord of Life and Death », Historic Times (https://historic-times.com/sultan-moulay-ismail-lord-of-life-and-death/)*

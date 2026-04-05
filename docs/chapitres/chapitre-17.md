@@ -77,3 +77,37 @@ J'ai appris cette histoire de plusieurs Espagnols, et d'un Français nommé Jacq
 [^1]: « Socy » dans l'original. Il s'agit du souk, c'est-à-dire le marché. Le Grand Socco (Socco Grande) de Tétouan est aujourd'hui la place Feddan.
 [^2]: Impôts. Le terme « garame » désigne une contribution fiscale au Maroc.
 [^3]: « Pignon de Velez » dans l'original. Le Peñón de Vélez de la Gomera, presido espagnol sur la côte rifaine.
+
+---
+
+## Reperes historiques
+
+**« exiles dans la Forteresse de Penon de Velez »** — Le Penon de Velez de la Gomera est un ilot rocheux sur la cote rifaine, conquis par l'Espagne en 1508, perdu en 1522, puis repris en 1564. Au XVIIe siecle, c'etait l'un des presidios les plus redoutes : une garnison minuscule sur un rocher battu par les vagues, a portee de fusil de la cote marocaine. L'Espagne y envoyait ses bannis et ses criminels, comme ces deux deserteurs en puissance. Aujourd'hui encore territoire espagnol, le Penon possede la plus courte frontiere terrestre internationale au monde : 85 metres avec le Maroc.
+
+*Source : « Penon de Velez de la Gomera », Wikipedia, [https://en.wikipedia.org/wiki/Pe%C3%B1%C3%B3n_de_V%C3%A9lez_de_la_Gomera](https://en.wikipedia.org/wiki/Pe%C3%B1%C3%B3n_de_V%C3%A9lez_de_la_Gomera)*
+
+**« Malheureux, lui dit-il, est-il possible que tu sois assez mechant pour renier de gaiete de coeur [...] ton Createur »** — La reaction du gouverneur de Tetouan est l'un des passages les plus surprenants du livre. Loin du cliche du musulman fanatique cherchant a convertir les chretiens, cet alcayde condamne violemment celui qui renie Dieu avec legerete. Son raisonnement est d'une logique implacable : si tu renies le Dieu des chretiens, c'est que tu ne crois en rien, donc tu insultes aussi Mahomet. Cette defense de la sincerite religieuse — par-dela les confessions — temoigne d'une conception de la foi que beaucoup de theologiens europeens de l'epoque auraient pu partager.
+
+*Source : Bartholome et Lucile Bennassar, « Les Chretiens d'Allah. L'histoire extraordinaire des renegats (XVIe-XVIIe siecles) », Perrin, 1989*
+
+**« qu'on lui plantat douze bougies ardentes dans les epaules et dans les mamelles, et qu'il fut [...] brule vif a petit feu »** — Le supplice inflige au renegat de Murcie est d'une cruaute deliberee et ritualisee. Les bougies plantees dans la chair, la promenade dans les rues, le bucher « a petit feu » — tout est concu pour faire de l'execution un spectacle public a valeur pedagogique. Le parallele avec les autodafes de l'Inquisition espagnole est frappant : des deux cotes du detroit de Gibraltar, on brulait ceux qui trahissaient la foi. Selon les archives inquisitoriales, seuls six renegats furent condamnes a mort entre 1540 et 1700, mais des centaines furent envoyes aux galeres.
+
+*Source : « Inquisition espagnole », Wikipedia, [https://fr.wikipedia.org/wiki/Inquisition_espagnole](https://fr.wikipedia.org/wiki/Inquisition_espagnole)*
+
+**« l'Alcayde fit vetir superbement l'autre Renegat [...] le fit monter a cheval et l'envoya promener par toute la Ville »** — Le contraste entre le sort des deux renegats est saisissant et pedagogique. L'un est brule vif pour avoir blaspheme, l'autre est fete en triomphe parce qu'il a exprime sa conversion avec respect. Le message est clair : l'islam accueille les convertis sinceres, mais punit ceux qui insultent Dieu. La promenade triomphale avec tambours et hautbois est le miroir exact de la promenade d'infamie du premier — meme parcours dans les rues, mais pour celebrer au lieu de chatier.
+
+*Source : « Des chretiens passent a l'islam : les renegats (XVIe-XVIIe siecle) », Presses universitaires de Provence, [https://books.openedition.org/pup/6791](https://books.openedition.org/pup/6791)*
+
+**« les Sentinelles de Ceuta l'ayant apercue, la Galiote de cette Place sortit aussitot »** — Ceuta, possession espagnole depuis 1415, etait situee a seulement sept lieues de Tetouan. Les deux villes se surveillaient mutuellement en permanence. Les Espagnols maintenaient des sentinelles orientees vers Tetouan pour reperer les sorties de corsaires, tandis que les Maures devaient profiter du brouillard ou de la nuit pour sortir en mer. Cette guerre d'observation constante dans le detroit de Gibraltar faisait de chaque expedition corsaire un jeu de cache-cache naval a haut risque.
+
+*Source : « Tetouan, place de rachat des captifs aux XVIe et XVIIe siecles », Cahiers de la Mediterranee, [https://journals.openedition.org/cdlm/7207](https://journals.openedition.org/cdlm/7207)*
+
+**« il entra dans une si grande tristesse [...] pour l'amour qu'il portait a l'une des plus belles Dames d'Afrique »** — Le renegat de Tarifa refuse de se reconvertir au christianisme, non par conviction religieuse, mais par amour pour une femme de Tetouan qui l'a conduit a sa perte. Cette passion amoureuse comme moteur de l'apostasie est un theme recurrent chez les renegats. Les Bennassar, dans leur etude sur les « Chretiens d'Allah », montrent que les motivations des conversions a l'islam etaient rarement purement spirituelles : amelioration des conditions de vie, mariage, ambition sociale ou, comme ici, passion devoratrice.
+
+*Source : Bartholome et Lucile Bennassar, « Les Chretiens d'Allah », Perrin, 1989*
+
+**« elle lui fit dire [...] qu'il ne la prétende pas a moins [qu'il amene] son pere, sa mere et ses soeurs [...] afin qu'ils nous servent d'Esclaves »** — Cette exigence monstrueuse — reduire sa propre famille en esclavage comme preuve d'amour — releve du conte cruel autant que du fait divers. Elle rappelle les epreuves imposees aux pretendants dans les contes orientaux, mais avec une conclusion tragique bien reelle. La belle de Tetouan teste la soumission absolue du renegat, et celui-ci accepte. Ce recit illustre la fascination morbide des auteurs europeens pour les passions « barbares », mais Mouette le rapporte sur le temoignage de plusieurs captifs nommes, ce qui lui confere une credibilite inhabituelle.
+
+*Source : Germain Mouette, « Relation de la captivite du Sieur Mouette dans les Royaumes de Fez et de Maroc », Paris, Jean Cochart, 1683*
+
+**« J'ai appris cette histoire de plusieurs Espagnols, et d'un Francais nomme Jacques Tesson [...] Francisco Garcia natif de Tarifa, Juan d'Ossona natif de Gibraltar »** — Mouette prend soin de citer nommement ses sources : sept temoins, dont un Francais du Havre-de-Grace et six Espagnols de differentes villes d'Andalousie et du presidio de Ceuta. Cette precision inhabituelle dans un recit de captivite du XVIIe siecle temoigne d'une demarche quasi journalistique. Mouette recoupait ses informations aupres de plusieurs temoins independants — une methode qui donne a son recit une fiabilite bien superieure a celle de nombreux memorialistes de l'epoque.

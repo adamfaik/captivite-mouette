@@ -35,3 +35,35 @@ Il pria Cantillo son Patron de trouver bon qu'il prît quelques riches meubles c
 C'est ainsi qu'ils furent punis d'avoir voulu troubler les plaisirs de l'Esclave et de sa Maîtresse, lesquels persévérèrent toujours dans leur commerce amoureux jusqu'en l'année 1678 que l'un et l'autre moururent de la peste.
 
 [^1]: Ais : planches de bois.
+
+---
+
+## Reperes historiques
+
+**« les femmes Africaines sont la plupart dans l'ame fort peu chastes [...] elles ne trouvent pas la meme difficulte avec les Esclaves »** — Les recits de captivite europeens du XVIIe siecle abordent frequemment la question des relations entre femmes musulmanes et esclaves chretiens. La peine prevue pour un chretien surpris avec une musulmane etait le bucher, ce qui explique la confiance des maris maures : ils pensaient que cette menace suffisait a decourager toute tentative. Pourtant, comme le montre ce chapitre, la proximite domestique creait des situations que la loi ne pouvait empecher. Le theme traverse toute la litterature de captivite en Barbarie, de Cervantes a Mouette.
+
+*Source : « Eros en Barbarie aux XVIIe et XVIIIe siecles », CRLV, [https://crlv.org/conference/eros-en-barbarie-aux-xviie-et-xviiie-si%C3%A8cles](https://crlv.org/conference/eros-en-barbarie-aux-xviie-et-xviiie-si%C3%A8cles)*
+
+**« Mahamet le Mararchy, qui etait l'un des principaux de Sale ou il exercait [...] la charge d'Ecrivain ou de Secretaire du Roi pour le fait de la Marine »** — Sale etait alors l'un des ports corsaires les plus actifs de l'Atlantique. Apres la fin de la « Republique du Bouregreg » (1627-1668), la ville demeura un centre majeur de la course sous l'autorite des Alaouites. Le secretaire de la Marine etait un personnage considerable : il supervisait l'armement des navires, le partage du butin et la correspondance avec les puissances europeennes. Les corsaires saletins ecumaient les mers jusqu'en Islande et Terre-Neuve, et avaient meme razzie le village de Baltimore en Irlande en 1631.
+
+*Source : « Pirates et corsaires de Sale », Wikipedia, [https://fr.wikipedia.org/wiki/Pirates_et_corsaires_de_Sal%C3%A9](https://fr.wikipedia.org/wiki/Pirates_et_corsaires_de_Sal%C3%A9)*
+
+**« Pierre, lui dit-elle (car en Barbarie on appelle tous les Esclaves par leur nom de bapteme) »** — Cet usage du prenom de bapteme n'etait pas anodin. En effacant le nom de famille — et donc le rang social — l'appellation ramenait le captif a sa condition d'esclave, quel que fut son statut en Europe. Inversement, ce prenom chretien marquait aussi une frontiere religieuse : tant qu'on l'appelait « Pierre », il restait chretien. S'il avait renie, il aurait recu un nom musulman. Le prenom etait donc a la fois une humiliation et un dernier rempart identitaire.
+
+*Source : « Les captifs europeens en terre marocaine aux XVIIe et XVIIIe siecles », Cahiers de la Mediterranee, [https://journals.openedition.org/cdlm/45](https://journals.openedition.org/cdlm/45)*
+
+**« un Chirurgien Francais qui etait Esclave de Cantillo Reys »** — Les esclaves possedant des competences medicales ou artisanales jouissaient d'un statut privilegie en Barbarie. Un chirurgien valait une petite fortune sur le marche des captifs, car la medecine europeenne etait recherchee par les elites maures. Certains praticiens captifs finissaient par exercer quasi librement, circulant de maison en maison pour soigner les notables. Cette liberte de mouvement, comme on le voit ici, pouvait servir de couverture a des activites bien moins therapeutiques.
+
+*Source : « Les esclaves francais des Barbaresques », Wiki Guy de Rambaud, [https://guyderambaud.fandom.com/fr/wiki/Les_esclaves_fran%C3%A7ais_des_Barbaresques](https://guyderambaud.fandom.com/fr/wiki/Les_esclaves_fran%C3%A7ais_des_Barbaresques)*
+
+**« quelques Juifs qui tenaient leur boutique proche de sa maison [...] ne lui eussent inspire de la Jalousie »** — A Sale au XVIIe siecle, les communautes juives vivaient a proximite des quartiers musulmans et occupaient une place centrale dans le commerce local. Intermediaires entre les corsaires maures et les marchands europeens, ils etaient indispensables a l'economie de la ville mais aussi vulnerables aux represailles. L'episode de la vengeance de Pierre — qui fait accuser les Juifs de recel pour les punir de leur delation — illustre cruellement cette fragilite : deux cents coups de baton, cent ecus d'amende et trois mois de prison, sans veritable recours.
+
+*Source : « Histoire des Juifs au Maroc », Wikipedia, [https://fr.wikipedia.org/wiki/Histoire_des_Juifs_au_Maroc](https://fr.wikipedia.org/wiki/Histoire_des_Juifs_au_Maroc)*
+
+**« il pria Cantillo son Patron de trouver bon qu'il prit quelques riches meubles chez lui [...] qu'il indiquerait ceux entre les mains desquels il l'aurait mis »** — Ce stratageme revele un aspect meconnu de l'esclavage en Barbarie : la relation entre maitre et esclave n'etait pas toujours celle d'une domination brutale. Ici, le patron accepte de participer activement a une mise en scene frauduleuse pour aider son esclave a se venger. Cette complicite s'explique par l'interet mutuel : un esclave chirurgien satisfait rapportait des revenus a son proprietaire, qui avait donc tout avantage a le garder content et cooperatif.
+
+*Source : Leila Maziane, « Sale et ses corsaires (1666-1727). Un port de course marocain au XVIIe siecle », Presses universitaires de Caen, 2007*
+
+**« persevererent toujours dans leur commerce amoureux jusqu'en l'annee 1678 que l'un et l'autre moururent de la peste »** — La peste de 1678 fut l'une des grandes epidemies qui frapperent le Maroc sous Moulay Ismail. Arrivee de Tunisie et d'Algerie ou elle sevissait depuis 1670, elle toucha surtout les regions du Gharb et du Rif, faisant des milliers de morts. Le sultan ordonna l'interdiction de circuler entre les villes et fit executer les contrevenants par sa garde pretorienne. Que Mouette connaisse la date exacte de la mort des deux amants — et sa cause — montre a quel point la vie de la communaute des captifs de Sale etait suivie et documentee par les temoins de l'epoque.
+
+*Source : « Population et crise au Maroc aux XVIe et XVIIe siecles. Famines et epidemies », Persee, [https://www.persee.fr/doc/camed_0395-9317_1977_hos_2_1_1493](https://www.persee.fr/doc/camed_0395-9317_1977_hos_2_1_1493)*

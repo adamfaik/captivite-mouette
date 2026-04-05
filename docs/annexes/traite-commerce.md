@@ -111,3 +111,43 @@ Les Révérends Pères de la Merci, qui se préparent bientôt à faire une troi
 [^10]: Probablement Iligh, dans le Souss.
 [^11]: Ceuta, alors possession espagnole.
 [^12]: Jean-Baptiste Colbert (1619-1683), Ministre de Louis XIV, artisan de la politique mercantiliste et des manufactures royales.
+
+---
+
+## Reperes historiques
+
+**« Nous devons tous ces grands biens au zele infatigable [...] de Monseigneur Colbert »** — Jean-Baptiste Colbert mourut en septembre 1683, la meme annee que la publication du livre de Mouette. Cet eloge vibrant du ministre est donc aussi un hommage posthume. Colbert avait fait du commerce maritime une arme geopolitique : creation de la Compagnie des Indes, arsenal de Rochefort, ordonnance de la Marine de 1681. Sa politique envers la Barbarie combinait diplomatie, bombardements navals (Alger en 1682-1683) et traites de commerce. Mouette, en placant son traite sous le patronage de Colbert, inscrit son recit dans le grand dessein mercantiliste de Louis XIV.
+
+*Source : « La politique maritime et mercantiliste de Colbert », Le Livre Scolaire, [https://www.lelivrescolaire.fr/page/6745286](https://www.lelivrescolaire.fr/page/6745286)*
+
+**« La Mamora [...] fut prise par Mouley Semein sur les Espagnols en l'annee 1681 »** — La prise de Mamora (aujourd'hui Mehdya) par Moulay Ismail le 3 mai 1681 fut un evenement majeur. La garnison espagnole, installee depuis 1614, capitula apres un siege mene par 30 000 cavaliers marocains. Les Espagnols perdirent 308 prisonniers et 88 canons de bronze. Le sultan rebaptisa la ville « Al-Mahdiya » et projeta d'en faire un grand port commercial et corsaire, profitant de la profondeur du fleuve Sebou qui pouvait accueillir des navires de 300 tonneaux. Mouette, informé par l'ambassadeur marocain, rapporte ce projet avec une precision remarquable.
+
+*Source : « Siege of Mamora (1681) », Wikipedia, [https://en.wikipedia.org/wiki/Siege_of_Mamora_(1681)](https://en.wikipedia.org/wiki/Siege_of_Mamora_(1681))*
+
+**« Agader Aguer, ou Sainte-Croix [...] surpasse toutes ces autres Villes, a cause que les Marchandises que l'on en tire sont plus exquises »** — Agadir, appelee « Santa Cruz » par les Portugais qui y tinrent un fort au XVIe siecle, etait le debouche naturel du commerce saharien. La region du Souss, dont elle etait le port, produisait du sucre et servait de relais pour l'or en poudre, les plumes d'autruche et l'indigo venus du Soudan et de Tombouctou via les caravanes transsahariennes. Au XVIIe siecle, sous la principaute semi-independante du Tazeroualt, Agadir commercait directement avec les maisons de negoce europeennes, en particulier hollandaises et anglaises.
+
+*Source : « Histoire », In Agadir, [https://inagadir.wordpress.com/histoire/](https://inagadir.wordpress.com/histoire/)*
+
+**« les Arabes [...] se servent de Dromadaires [...] sur lesquels ils chargent du sel blanc, avec quoi ils negocient avec les Negres pour avoir cette poudre d'or »** — Le commerce transsaharien du sel contre l'or est l'un des plus anciens echanges commerciaux du monde, documente depuis le VIIe siecle. Le sel, extrait des mines du Sahara (notamment a Taghaza et Taoudeni), etait si precieux en Afrique subsaharienne qu'il s'echangeait presque poids pour poids contre l'or. Les caravanes de dromadaires pouvaient compter plusieurs milliers de betes et traversaient des centaines de kilometres de desert. Ce commerce a fait la fortune de Tombouctou, de l'empire du Ghana, puis de l'empire du Mali.
+
+*Source : « The Trans-Saharan Gold Trade (7th-14th Century) », The Metropolitan Museum of Art, [https://www.metmuseum.org/essays/the-trans-saharan-gold-trade-7th-14th-century](https://www.metmuseum.org/essays/the-trans-saharan-gold-trade-7th-14th-century)*
+
+**« Ce Commerce se fait sans parler, ni sans qu'il y arrive aucun desordre »** — Le « troc muet » decrit par Mouette est l'une des curiosites les plus celebres de l'histoire du commerce mondial. Deja mentionne par Herodote au Ve siecle avant notre ere, ce systeme d'echange sans parole entre marchands arabes et populations noires subsahariennes fonctionnait par depots successifs : l'un posait le sel, l'autre posait l'or, et l'on ajustait les quantites jusqu'a l'accord. Ce protocole evitait les conflits linguistiques et protegeait les secrets des mines d'or. Mouette le decrit avec une precision ethnographique exceptionnelle pour son epoque, s'appuyant sur des temoignages de marchands du Draa et du Tafilalet.
+
+*Source : « The Salt Trade of Ancient West Africa », World History Encyclopedia, [https://www.worldhistory.org/article/1342/the-salt-trade-of-ancient-west-africa/](https://www.worldhistory.org/article/1342/the-salt-trade-of-ancient-west-africa/)*
+
+**« Les Consuls et les Marchands [...] s'enrichissent la plupart du butin que les Corsaires font sur les Chretiens »** — Mouette livre ici une denonciation feroce des marchands francais etablis a Sale et a Tetouan. Son accusation est grave : ces negociants achetaient a bas prix les marchandises pillees par les corsaires sur des navires chretiens pour les revendre en Europe avec un benefice quadruple. Pire, ils detournaient les rancons envoyees par les familles des captifs pour les investir dans le commerce, retardant parfois la liberation de plusieurs annees. Le consul francais a Sale est nomme personnellement. Des etudes historiques confirment que ces pratiques etaient repandues et que la frontiere entre commerce legitime et recel de piraterie etait tres floue.
+
+*Source : « Le consul Jean-Baptiste Estelle et le commerce de la France au Maroc a la fin du XVIIe siecle », Persee, [https://www.persee.fr/doc/outre_0300-9513_1959_num_46_162_1304](https://www.persee.fr/doc/outre_0300-9513_1959_num_46_162_1304)*
+
+**« ces trompeurs les sequestrent, afin que les Captifs n'aient aucunes nouvelles qu'ils ont leurs rancons »** — Le systeme de sequestration des lettres decrit par Mouette est un mecanisme de fraude sophistique. Les marchands interceptaient la correspondance dans les deux sens : les lettres des familles aux captifs et celles des captifs aux familles. Ainsi, personne ne savait que la rancon avait ete versee, et l'argent travaillait pour le marchand. Mouette recommande d'ecrire aux captifs « par la voie de Tanger et de Ceuta » — c'est-a-dire par les postes espagnoles et anglaises — pour contourner le reseau francais corrompu. Ce conseil pratique, adresse aux familles de captifs, fait de ce chapitre un veritable guide de survie.
+
+*Source : « Les Rochelais au Maroc au XVIIe siecle : commerce et rachat de captifs », Persee, [https://www.persee.fr/doc/outre_0399-1385_1948_num_35_122_1100](https://www.persee.fr/doc/outre_0399-1385_1948_num_35_122_1100)*
+
+**« les marchandises [...] payent toutes [...] dix pour cent d'entree et de sortie pour les droits du Roi, et deux pour cent de ceux du Consul »** — Ce systeme fiscal a taux unique de 10 % — avec une exception pour l'argent espagnol, taxe seulement a 2 % — etait remarquablement simple par rapport aux regimes douaniers europeens de l'epoque. Les droits consulaires de 2 % supplementaires constituaient le salaire et les frais de fonctionnement du consul. Mouette note avec ironie que les armes et munitions de guerre circulent « malgre les Censures Ecclesiastiques et les defenses de nos Princes » — preuve que le commerce des armes avec l'ennemi musulman etait une realite que ni l'Eglise ni le roi ne parvenaient a empecher.
+
+*Source : « Les captifs francais du Maroc au XVIIe siecle, 1577-1699 », Charles Penz, Institut des hautes etudes marocaines*
+
+**« Il ne se faut pas trop fier au beau semblant que le Gouverneur leur pourra montrer, car ce sont tous des chiens qui mordent en faisant des caresses »** — Ce passage est un veritable vade-mecum du negociant en terre barbaresque. Les conseils de Mouette — ne rien preter au gouverneur, ne pas croire les livres de comptes des Juifs, eviter de se familiariser avec les esclaves — temoignent d'une experience vecue. Son avertissement sur les Juifs, qui « ecrivent toujours plus du quart ou du tiers qu'ils n'ont livre », reflète les prejuges de l'epoque mais aussi une realite commerciale ou la confiance etait rare et les litiges constants. Le tableau d'ensemble est celui d'un monde ou chacun — Maure, Juif, chretien — cherche a tromper l'autre, et ou seule la prudence permet de survivre.
+
+*Source : « Image(s) francaise(s) du Maroc avant le Protectorat (XVIIe-XIXe siecle) », these de doctorat, HAL, [https://theses.hal.science/tel-01315181](https://theses.hal.science/tel-01315181)*

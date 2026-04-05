@@ -60,3 +60,39 @@ Le Roi s'étant mis à sourire lui fit donner vingt ducats d'or, et lui dit d'al
 [^4]: « Vrica » dans l'original, aujourd'hui Ourika, vallée au sud de Marrakech dans le Haut Atlas.
 [^5]: « Toudega » dans l'original, aujourd'hui les gorges du Todgha (ou Todra).
 [^6]: « Sagaro » dans l'original, aujourd'hui le Djebel Saghro.
+
+---
+
+## Reperes historiques
+
+**« ces illustres Hidalgos que les Rois de Portugal honorent de l'ordre du Christ, pour les périls où ils s'exposent dans les Places qu'ils possèdent sur les côtes d'Afrique »** — L'Ordre du Christ, heritier direct des Templiers dissous en 1312, fut recree au Portugal en 1319 par le roi Denis Ier. Au XVIIe siecle, les statuts de 1627 exigeaient trois ans de service en Afrique ou dans la flotte pour etre admis dans l'Ordre. Tanger, possession portugaise depuis 1471, etait l'un de ces postes avances ou les chevaliers gagnaient leurs eperons. La garnison y menait une existence precaire, constamment menacee par les tribus voisines, jusqu'a la cession de la ville a l'Angleterre en 1661.
+
+*Source : « Ordre du Christ (Portugal) », Wikipedia, [https://fr.wikipedia.org/wiki/Ordre_du_Christ_(Portugal)](https://fr.wikipedia.org/wiki/Ordre_du_Christ_(Portugal))*
+
+**« une embuscade de Maures, qui lui tirerent un coup de fusil qui tua son Cheval »** — Les environs de Tanger etaient un terrain de guerilla permanente. Le Portugal, affaibli par soixante ans d'union avec l'Espagne (1580-1640) et par ses guerres coloniales contre les Hollandais, ne pouvait plus entretenir correctement ses garnisons nord-africaines. Les sorties hors les murs pour poser des sentinelles etaient l'un des moments les plus dangereux : les cavaliers maures pratiquaient l'embuscade avec une redoutable efficacite, capturant des soldats qu'ils revendaient ou offraient en cadeaux aux princes locaux.
+
+*Source : « Portuguese Tangier », Wikipedia, [https://en.wikipedia.org/wiki/Portuguese_Tangier](https://en.wikipedia.org/wiki/Portuguese_Tangier)*
+
+**« la Fille du Cheik des montagnes d'Ourika [...] lui donna une tres belle echarpe de soie verte »** — La vallee d'Ourika, a une trentaine de kilometres au sud de Marrakech, etait peuplee de tribus berberes dont le nom meme — Urika — remonte a la dynastie almohade. Dans ce monde montagnard, les femmes berberes jouissaient d'une liberte de parole et de mouvement bien plus grande que dans les villes. L'echarpe de soie verte, d'une valeur de douze ecus, representait un present considerable, le vert etant en outre la couleur du Prophete et donc un symbole de tres haute estime.
+
+*Source : « Ourika Valley », Wikipedia, [https://en.wikipedia.org/wiki/Ourika_Valley](https://en.wikipedia.org/wiki/Ourika_Valley)*
+
+**« il apercut sous un Rocher [...] une grande Lionne qui donnait a teter a trois jeunes Lionceaux »** — Le lion de l'Atlas (Panthera leo leo), aussi appele lion de Barbarie, peuplait encore abondamment les montagnes du Maroc au XVIIe siecle. Cette sous-espece, reconnaissable a sa criniere noire et epaisse, ne s'est eteinte a l'etat sauvage qu'au milieu du XXe siecle — le dernier specimen aurait ete abattu vers 1942 a Taddert dans le Haut Atlas. Il en subsiste moins d'une centaine en captivite, notamment au zoo de Rabat. Le recit de Mouette est donc un temoignage precieux d'une epoque ou croiser une lionne avec ses petits dans l'Atlas n'avait rien d'exceptionnel.
+
+*Source : « Lion de l'Atlas », Wikipedia, [https://fr.wikipedia.org/wiki/Lion_de_l%27Atlas](https://fr.wikipedia.org/wiki/Lion_de_l%27Atlas)*
+
+**« une Caffile d'Arabes de Tafilalet qui retournait en son Pays [...] l'emmena avec elle »** — Le Tafilalet etait alors le berceau de la dynastie alaouite, celle-la meme qui regne encore au Maroc aujourd'hui. Moulay Cherif, mentionne par Mouette, est considere comme le fondateur de cette dynastie. Ses descendants — dont Moulay Rachid puis Moulay Ismail — allaient unifier le Maroc et en faire une puissance regionale. Les caravanes (caffles) qui circulaient entre le sud saharien et les villes du nord etaient les arteres vitales de ce royaume en construction.
+
+*Source : « Alawi dynasty », Wikipedia, [https://en.wikipedia.org/wiki/Alawi_dynasty](https://en.wikipedia.org/wiki/Alawi_dynasty)*
+
+**« Mouley Semein (le plus jeune de tous, n'etant alors age que de trois ans) l'emporta sur ses autres freres »** — Ce « petit prince » de trois ans n'est autre que le futur Moulay Ismail, l'un des plus celebres sultans du Maroc, qui regnera de 1672 a 1727 — soit cinquante-cinq ans. Surnomme le « Roi Soleil du Maroc », il fera de Meknes sa capitale, y construira un palais rivale de Versailles, et entretiendra une armee de 150 000 esclaves noirs. L'image de Dom Louis le portant dans ses bras comme enfant est saisissante quand on sait quel souverain redoutable il deviendra.
+
+*Source : « Ismail Ibn Sharif », Wikipedia, [https://en.wikipedia.org/wiki/Ismail_Ibn_Sharif](https://en.wikipedia.org/wiki/Ismail_Ibn_Sharif)*
+
+**« Lorsque les Males sont fleuris, les Maures prennent de cette fleur et la portent au sommet des Femelles ou ils l'entent »** — Mouette decrit ici la pollinisation manuelle du palmier dattier, une technique agricole vieille de plusieurs millenaires. Les plus anciennes representations connues figurent sur des bas-reliefs assyriens datant de pres de 3 000 ans. Au Tafilalet, cette pratique s'accompagnait de paroles sacrees et de chants rituels destines a assurer une bonne recolte. Elle se transmet encore aujourd'hui de generation en generation dans les oasis du sud marocain, meme si les techniques modernes commencent a la supplanter.
+
+*Source : « Phoeniciculture : Pollinisation du palmier-dattier », Agriculture du Maghreb, [https://www.agri-mag.com/2017/06/19/phoeniciculture-pollinisation-palmier/](https://www.agri-mag.com/2017/06/19/phoeniciculture-pollinisation-palmier/)*
+
+**« sa Barbe [...] commencant deja a blanchir, les Arabes de la Campagne [...] le prenaient pour un Morabite »** — Qu'un esclave chretien puisse etre pris pour un marabout (saint homme musulman) en dit long sur la fluidite des identites dans le Maroc du XVIIe siecle. Les marabouts, veneres pour leur baraka (benediction divine), recevaient baisers sur les mains et les pieds en signe de devotion. Dom Louis, loin de refuser ces hommages, les acceptait quand il etait seul — un pragmatisme de survie qui montre combien les frontieres entre les mondes chretien et musulman etaient parfois poreuses dans la vie quotidienne des captifs.
+
+*Source : « Les captifs europeens en terre marocaine aux XVIIe et XVIIIe siecles », Cahiers de la Mediterranee, [https://journals.openedition.org/cdlm/45](https://journals.openedition.org/cdlm/45)*
