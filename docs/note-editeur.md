@@ -1,41 +1,83 @@
-# Note de l'Éditeur
+# Note sur la présente édition
 
 <div align="center">
   <img src="/images/cover-captivite.png" alt="Illustration de la captivité" width="600" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); margin: 20px 0;" />
 </div>
 
-**Projet de modernisation et de transcription par Adam Faik.**
+## Le projet
 
-Ce site a pour vocation de rendre accessible à un public contemporain la **"Relation de la captivité du Sr. Moüette dans les royaumes de Fez et de Maroc"**, ouvrage publié initialement à Paris en **1683**.
+La *Relation de la captivité du Sr. Moüette dans les royaumes de Fez et de Maroc* fut publiée à Paris en 1683 chez Jean Cochart. Germain Moüette y raconte ses onze années de captivité au Maroc (1670-1681), sous les règnes de Moulay Rachid et de Moulay Ismaïl. C'est l'un des témoignages les plus détaillés et les plus vivants que nous ayons sur le Maroc du XVIIe siècle : architecture, commerce, coutumes, vie quotidienne des esclaves chrétiens, récits d'aventures et d'évasions.
 
-## ⚠️ Avertissement sur le contenu
+Le texte original, écrit dans le français de son époque, reste difficile d'accès aujourd'hui : orthographe ancienne, ponctuation dense, usage du *s* long ressemblant au *f*. Cette édition numérique a pour but de le rendre lisible pour un lecteur contemporain, tout en restant aussi fidèle que possible à la voix de l'auteur.
 
-Ce récit est un document historique authentique du XVIIe siècle.
+## Avertissement sur le contenu
 
-Le lecteur est averti que le texte reflète les mentalités, les préjugés et le vocabulaire de son époque. Il contient des descriptions et des termes qui peuvent être offensants, discriminatoires ou racistes selon nos critères actuels.
+Ce récit est un document historique authentique du XVIIe siècle. Le lecteur est averti que le texte reflète les mentalités, les préjugés et le vocabulaire de son époque. Il contient des descriptions et des termes qui peuvent être offensants, discriminatoires ou racistes selon nos critères actuels — notamment les mots *Barbares*, *Mahométans*, *Infidèles*, ou certaines descriptions des peuples rencontrés.
 
-Ces éléments ont été conservés dans un but purement **documentaire et historique**, pour témoigner de la vision du monde d'un captif français sous le règne de Moulay Ismail. Ils ne reflètent en aucun cas les opinions de l'éditeur de ce site.
+Ces éléments ont été volontairement conservés tels que Moüette les a écrits, dans un but purement documentaire et historique. Ils ne reflètent en aucun cas les opinions de l'éditeur de ce site.
 
-## Méthodologie de modernisation
+## Méthodologie
 
-Le texte original, écrit en vieux français, peut être difficile à lire aujourd'hui (orthographe ancienne, ponctuation dense, usage du "s" long ressemblant au "f").
+Cette édition a été réalisée en deux temps.
 
-Pour réaliser cette édition numérique, j'ai utilisé la méthode suivante :
-1.  **Source :** Le texte est basé sur le scan du livre original disponible sur Google Books. [Consulter le PDF original ici](https://books.google.fr/books?id=UPc9AAAAcAAJ&redir_esc=y).
-2.  **Transcription & Modernisation (IA) :** J'ai utilisé l'intelligence artificielle **Gemini** pour extraire le texte et le moderniser.
-3.  **Modifications apportées :**
-    * **Orthographe :** Modernisée pour la fluidité (ex: *françois* &rarr; *français*, *estre* &rarr; *être*, *avoyent* &rarr; *avaient*).
-    * **Ponctuation :** Le texte a été aéré et la ponctuation mise à jour pour faciliter la lecture.
-    * **Structure :** Le découpage en chapitres et le vocabulaire de l'auteur ont été scrupuleusement respectés.
+### Première étape : transcription et modernisation
 
-> **Avertissement sur la précision :** Bien que le texte ait été relu, l'usage de l'IA et de l'OCR (reconnaissance optique de caractères) peut entraîner des coquilles ou des erreurs de transcription résiduelles. Ce site ne remplace pas le document original pour un travail de recherche académique strict.
+Le texte a été extrait du scan du livre original disponible sur Google Books[^1], à l'aide de l'intelligence artificielle Gemini (reconnaissance optique de caractères et première modernisation orthographique).
 
-## Contact et Signalements
+### Seconde étape : revue comparative et harmonisation
 
-Ce projet est open-source et collaboratif.
+L'ensemble du texte — les quinze chapitres, la préface, le privilège, le traité du commerce, le dictionnaire arabe-français et la géographie — a ensuite été comparé paragraphe par paragraphe avec le texte source de 1683, puis corrigé et harmonisé selon les principes éditoriaux décrits ci-dessous.
 
-* **Éditeur :** Adam Faik
-* **Email :** adam.faik.perso@gmail.com
+Ce travail de révision a été réalisé à l'aide de [Claude Code](https://claude.ai/claude-code), l'outil en ligne de commande d'Anthropic. Deux *skills* (instructions réutilisables) ont été spécialement conçues pour ce projet :
 
-Si vous relevez une erreur, une coquille, ou si vous avez une remarque technique, vous êtes invité à ouvrir une "Issue" (un ticket) sur le dépôt GitHub du projet :
+- **[review-chapter](https://github.com/adamfaik/captivite-mouette/blob/main/.claude/skills/review-chapter/SKILL.md)** — compare un chapitre modernisé avec le texte original et produit un rapport structuré : omissions, glissements de sens, incohérences de modernisation, candidats aux notes de bas de page.
+- **[harmonize](https://github.com/adamfaik/captivite-mouette/blob/main/.claude/skills/harmonize/SKILL.md)** — applique les corrections identifiées en suivant les principes éditoriaux définis pour cette édition.
+
+Chaque chapitre a été traité par ces deux passes successives. Cette révision a permis de réintégrer plusieurs passages qui avaient été perdus lors de la transcription automatique, de corriger des glissements de sens et d'assurer la cohérence de l'ensemble.
+
+## Principes éditoriaux
+
+Les choix suivants ont guidé l'établissement du texte.
+
+### Voix de l'auteur
+
+L'orthographe et la grammaire ont été modernisées (*françois* → *français*, *estre* → *être*, *sçavoir* → *savoir*, *avoyent* → *avaient*), mais la structure des phrases, les tournures personnelles, les hésitations et les apartés de Moüette ont été préservés. Quand l'auteur écrit *je ne sais combien de déserts*, nous n'avons pas remplacé par *de nombreux déserts* : c'est sa voix, et elle fait le prix de ce récit.
+
+### Noms propres et noms de lieux
+
+Les noms de personnes et de lieux ont été modernisés selon l'usage français actuel (Moulay Ismaïl, Fécamp, Douvres, Meknès, etc.). Lorsque la forme employée par Moüette diffère significativement de la forme moderne, une note de bas de page signale la correspondance à la première occurrence.
+
+### Notes de bas de page
+
+Des notes ont été ajoutées pour éclairer les termes véritablement obscurs, les noms de lieux dont l'identification n'est pas évidente, et les références historiques qui nécessitent un bref contexte. Elles sont signalées dans le texte par un appel de note et rassemblées en bas de chaque chapitre. Nous avons veillé à ne pas surcharger le texte : un récit du XVIIe siècle a droit à une part d'étrangeté.
+
+### Passages restitués
+
+Plusieurs passages avaient été perdus ou tronqués lors de l'extraction automatique. Ils ont été silencieusement réintégrés dans le texte, sans marquage particulier, afin de ne pas alourdir la lecture.
+
+### Structure et paragraphes
+
+Le découpage en chapitres suit fidèlement l'original. À l'intérieur des chapitres, les paragraphes très longs ont parfois été scindés à des points de rupture thématique naturels, pour faciliter la lecture sur écran, mais sans excès.
+
+### Unités de mesure et nombres
+
+Les unités anciennes (lieues, brasses, palmes, tonneaux) et les formes numériques de l'époque (*six-vingts* pour 120) ont été conservées. Une note de bas de page n'est ajoutée que lorsque l'équivalent moderne est véritablement nécessaire à la compréhension.
+
+### Termes sensibles
+
+Les termes que Moüette emploie pour désigner les peuples, les religions et les cultures qu'il a côtoyés ont été maintenus tels quels. L'avertissement en tête de cette note en tient lieu de commentaire.
+
+### Dictionnaire arabe-français
+
+Les translittérations phonétiques de l'arabe telles que Moüette les a entendues et transcrites ont été conservées à l'identique. Seule la colonne française a été modernisée orthographiquement.
+
+## Source
+
+Le texte source est le scan du livre original de 1683, numérisé par Google Books et mis à disposition par Internet Archive. Le fichier texte brut issu de la reconnaissance optique de caractères est inclus dans le dépôt du projet, dans le dossier `sources/`, pour permettre toute vérification.
+
+[^1]: [Consulter le PDF original sur Google Books](https://books.google.fr/books?id=UPc9AAAAcAAJ&redir_esc=y).
+
+## Signalements
+
+Ce projet est open-source et collaboratif. Si vous relevez une erreur, une coquille, ou si vous avez une remarque, vous êtes invité à ouvrir un ticket sur le dépôt GitHub du projet :
 **[Signaler un problème ou faire une suggestion sur GitHub](https://github.com/adamfaik/captivite-mouette/issues)**
