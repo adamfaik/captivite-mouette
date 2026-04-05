@@ -51,6 +51,7 @@
 | Armée | Mehala |
 | Armes | Lehodem |
 | Armurier | Lehaded |
+| Archers | Lecodem |
 | Arabe | Larby |
 | Argent | Mecor |
 | Argent vif (Vif-argent) | Zoac |
@@ -88,7 +89,8 @@
 | Barils | Lebermil |
 | Beignets | Sefinche |
 | Bassin | Teifor |
-| Basse-fosse | Breber |
+| Basse-fosse | ... |
+| Barbare | Breber |
 | Bagues | Lecatem |
 | Balance | Zelat |
 | Bâton | Drobo |
@@ -105,7 +107,7 @@
 | Bidet | Jedegh |
 | Bible | Toret |
 | Bien belles | Zienan |
-| Bœuf | Le-becquer |
+| Bleu | Le-becquer |
 | Blanc | Le-biot |
 | Blé | Leguemeg |
 | Bonjour | Sebda-Allaguer |
@@ -124,7 +126,7 @@
 | Bouteille | Breda |
 | Bois | Lequecheb |
 | Boutique | Hanut |
-| Bon | Melef |
+| Bon | Afelef |
 | Bœuf | Tiren |
 | Bouc | Latrous |
 | Bougre | Zamel |
@@ -156,7 +158,7 @@
 | Cavale (Jument) | Laouda |
 | Canons | Lemfat |
 | Capitaine de Troupes | Alcayde |
-| Capitaine Corsaire | Rays-coursani |
+| Capitaine Corsaire | Rays-coursant |
 | Cerveau | Lemouc |
 | Cerises | Lemlouk |
 | Cerf | Lin |
@@ -226,16 +228,15 @@
 | Coquemar | Gery, gery |
 | Courir | Lecron |
 | Cornes | Lecaren |
-| Cornard | Forcan |
-| Coran | Asmec |
-| Comment t'appelles-tu ? | Qui-finta |
-| Comment te portes-tu ? | Chal-hadac-chy |
-| Combien cela ? | Habroc |
-| Coiffe | Seindoc |
-| Coffre | Ye Marjen |
-| Corail | Chacor |
-| Coignée | Corteba |
-| Cordoue | Cordoner |
+| Cornard | Coran |
+| Comment t'appelles-tu ? | Asmec |
+| Comment te portes-tu ? | Qui-finta |
+| Combien cela ? | Chal-hadac-chy |
+| Coiffe | Habroc |
+| Coffre | Seindoc |
+| Corail | Ye Marjen |
+| Cognée | Chacor |
+| Cordoue | Corteba |
 | Cordonnier | Lecahiet |
 | Concombres | Leffergil |
 | Coins (Coings) | Lehancha |
@@ -267,8 +268,8 @@
 | Dieu soit avec vous | Alla-audecum |
 | David | Daoud |
 | Dattes | Stamar |
-| Danser | Iblis |
-| Démon | Belselbut |
+| Danser | ... |
+| Démon, ou Belselbut | Iblis |
 | Denier | Felous ou Larat |
 | Décembre | December |
 | Devant toi | Quedemec |
@@ -404,7 +405,7 @@
 | Gale | Gedery |
 | Gênes | Genoa |
 | Général d'Armée | Bâcha |
-| Genouil | Requeba |
+| Genou | Requeba |
 | Gingembre | Quingiber |
 | Gland | Ubelot |
 | Gouverneur | Alcayde |
@@ -522,11 +523,11 @@
 | Libre | Artal |
 | Libéral | Varneb |
 | Livre de poids | Varneb |
-| Lièvre | Mstara |
-| Lieux communs | Deba |
-| Loup | Letenin |
-| Lundi | Oua |
-| Lui | ... |
+| Lièvre | ... |
+| Lieux communs | Mstara |
+| Loup | Deba |
+| Lundi | Letenin |
+| Lui | Oua |
 
 ## M
 
@@ -590,7 +591,7 @@
 | Monseigneur | Jebel |
 | Monsieur | Tela |
 | Monnaie | Bquem |
-| Monnaie de 3 sols | ... |
+| Monnaie de 3 sols | Mantilles |
 | Mouchoir | ... |
 | Mon bien-aimé | ... |
 | Moulin | ... |
@@ -781,14 +782,14 @@
 | Rames | Sultan |
 | Religieux | Lélouche |
 | Reine | Uajla |
-| Renégat | Betach |
-| Renégate | Nasa |
+| Renégat | Retach |
+| Renégate | Nafa |
 | Revendeur | Gachaichi |
 | Reposer | Osprit |
 | Réchaux | Ros |
-| Renard | Oiet |
-| Rebelles | Louidin |
-| Riche | Zanca |
+| Renard | ... |
+| Rebelles | ... |
+| Riche | ... |
 | Ris (Riz) | ... |
 | Rivière | ... |
 | Roi | ... |
@@ -877,10 +878,10 @@
 | Testicules | Fartas |
 | Teigneux | Harts ou trap |
 | Terre | Lecat |
-| Tenailes | Sasa |
+| Tenailles | Sasa |
 | Terrine | Lecarmoud |
 | Tuiles | Nemur |
-| Tigre | Cafetan |
+| Tigre | ... |
 | Tiens cela | Cut-hadac-chy |
 | Tisserand | Deress |
 | Tolède | Toleta |

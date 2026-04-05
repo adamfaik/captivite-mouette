@@ -30,7 +30,7 @@ Le Roi, qui aimait Bausset, fut bien aise de cette prière, et il commanda aussi
 
 Néanmoins, quand sa colère fut apaisée, la Captive retourna encore le prier avec tant d'ardeur qu'il ne put lui résister, et lui ordonna d'aller avec son mari et un nommé Prieur, Chirurgien de Poitiers (dont j'ai parlé ailleurs), de retirer Bausset du Parc aux Lions. Ce qui fut exécuté à l'heure même, après qu'il y eut demeuré cinq heures ; car il n'était guère que quatre heures quand il s'y jeta, et il en était plus de neuf quand il en fut retiré.
 
-Quelques jours après, les Lions n'eurent pas le même respect pour trois Fequirs, ou Sages de la loi de Mahomet, qui s'étaient ingérés de faire quelques remontrances au Roi sur ses cruautés : il les fit jeter dans le même Parc, où ils furent aussitôt mis en pièces.
+Quelques jours après, les Lions n'eurent pas le même respect pour trois Fequirs[^2], ou Sages de la loi de Mahomet, qui s'étaient ingérés de faire quelques remontrances au Roi sur ses cruautés : il les fit jeter dans le même Parc, où ils furent aussitôt mis en pièces.
 
 Cette Histoire m'a paru assez considérable dans toutes les circonstances pour en faire faire une Attestation authentique, dont l'original a été rapporté en France, et que j'ai remis entre les mains des Révérends Pères de la Merci de Paris, pour satisfaire à la curiosité de ceux qui en pourraient douter.
 
@@ -41,7 +41,7 @@ Elle a été faite en la ville de Tétouan en Afrique, le 18 Avril 1681, et est 
 * Toussaint Bayer, Marchand de Tétouan
 * Nicolas Boyer, Marchand
 * G. Moüette
-* Noël Pinot de Cancalle
+* Noël Pinot de Cancale
 * Macè Baudouin dudit lieu
 * Nicolas Gaillard de Saint-Malo
 * Pierre Havart de Rouen
@@ -50,10 +50,13 @@ Elle a été faite en la ville de Tétouan en Afrique, le 18 Avril 1681, et est 
 * M. de Romigni de Nantes
 * C. Penamen d'Angoulême
 * C. Lanuzel de Brest
-* Josselin Mincard de S. Malo
+* Josselin Minçard de S. Malo
 * Paul Le Vasseur de Pontoise
 * Jean le Comte de Rouen
 * François Pasquier de Harfleur
 * Et Julien Chevalier de Paris.
 
-Ceux qui ont signé au-dessous de moi étaient tous Captifs à Mequinez quand cela s'y passa. Bausset fut huit jours après retiré de captivité avec nous par les R.R. P.P. de la Merci, et depuis mon retour j'ai appris du Père Monel qu'il avait demandé l'habit dans un Couvent de leur Ordre, qu'on a promis de lui donner aussitôt qu'il sera de retour d'avec Monsieur de S. Amand, Ambassadeur du Roi vers celui de Maroc, qui l'a mené avec lui pour lui servir de Truchement [interprète].
+Ceux qui ont signé au-dessous de moi étaient tous Captifs à Mequinez quand cela s'y passa. Bausset fut huit jours après retiré de captivité avec nous par les R.R. P.P. de la Merci, et depuis mon retour j'ai appris du Père Monel qu'il avait demandé l'habit dans un Couvent de leur Ordre, qu'on a promis de lui donner aussitôt qu'il sera de retour d'avec Monsieur de S. Amand, Ambassadeur du Roi vers celui de Maroc, qui l'a mené avec lui pour lui servir de Truchement[^1].
+
+[^1]: Truchement : interprète.
+[^2]: Fequirs : du terme arabe *fuqaha* (singulier *faqih*), docteurs ou jurisconsultes de la loi islamique.

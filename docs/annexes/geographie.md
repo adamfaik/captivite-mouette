@@ -1,6 +1,6 @@
-# Noms des Provinces et des Villes
+# Noms des Provinces & des Villes
 
-**Appartenant tant au Roi de Maroc, qu'aux Chrétiens sur les Côtes.**
+**Appartenantes tant au Roi de Maroc, qu'aux Chrétiens, sur ses Côtes.**
 
 ## Royaume de Fez
 
@@ -9,27 +9,27 @@
 * Riffe [Rif]
 * Algarbes [Gharb]
 * Asceiz [Saïs]
-* Serhou [Zerhoun]
+* Serhon [Zerhoun]
 * Jebelzebie & Benzeroël
 * Montagnes de Meluya
-* Zaouïas
+* Zaoüias
 * Temesena [Tamesna]
 * Et Tadela [Tadla]
 
 ### Villes
-* Fez Belle [Fès el-Bali]
+* Fez Bellé [Fès el-Bali]
 * Fez Gedide [Fès el-Jdid]
 * Miquenez [Meknès]
 * Salé
 * Alcassar [Ksar el-Kébir]
 * Mamora [Mehdia]
 * Arzile [Asilah]
-* Toutouan [Tétouan]
+* Toutoüan [Tétouan]
 * Thesa [Taza]
 * Quiviane
 
 ### Possessions Chrétiennes
-* **Aux Espagnols :** Larache, Ceouta [Ceuta], Le Pignon de Velez [Peñón de Vélez], Albouzemes [Alhucemas] et Melilla.
+* **Aux Espagnols :** l'Arache [Larache], Ceoüta [Ceuta], le Pignon de Velez [Peñón de Vélez], Albouzemes [Alhucemas] et Melillà.
 * **Aux Anglais :** Tanger.
 
 ---
@@ -37,17 +37,17 @@
 ## Royaume de Maroc
 
 ### Provinces
-* Marachs [Marrakech]
-* Duqueila [Doukkala]
+* Marachx [Marrakech]
+* Duquella [Doukkala]
 * Haha
-* Guilaof
+* Guilaôa
 * Itata
 * Zaimby
 
 ### Villes
 * Maroc [Marrakech]
 * Azamor [Azemmour]
-* Valadie [Oualidia]
+* Vualadie [Oualidia]
 * Saphye [Safi]
 
 ### Possessions Chrétiennes
@@ -59,7 +59,7 @@
 
 ### Provinces
 * Tafilet
-* Touet [Tuat]
+* Toüet [Tuat]
 * Dras [Draâ]
 * Sara
 
@@ -88,6 +88,7 @@
 * Sebou
 * Marbea [Oum Er-Rbia]
 * Goudet [Tensift ?]
+* Sus [Oued Souss]
 * Dras [Draâ]
 * Tafilet [Ziz ?]
 
@@ -99,22 +100,22 @@
 * Rasse-Elma
 * Enques
 * Layana
-* Ouarga
+* Oüarga
 * Bouamaire [Boufekrane]
 * Beth
 * Guerou
-* Tasal
+* Tafaüt
 * Fistella
-* Louet de Leibit
+* Loüet de Leibit
 * Derna
-* Oumana
+* Oümana
 * Sero
 * Mesenes
 * Mel
 * Lequera
 * Mephis
 * Rasse-layne [Ras el-Aïn]
-* Louydin
+* Loüydin
 * Massa
 * Aguilou
 * Zaimby
@@ -122,9 +123,9 @@
 * Sedrat
 * Mougouna
 * Tougeda
-* Et Ferquela
+* Et Ferquéla
 
-> **Note :** Outre ces Rivières, il y a encore quantité de Ruisseaux qui sèchent tous en été, et qui ne reçoivent en hiver que l'eau des Ravines, ce qui les fait en ce temps-là passer pour des Rivières effectives à ceux qui ne le savent pas.
+> **Note :** Outre ces Rivières, il y a encore quantité de Ruisseaux qui sèchent tous en été, et qui ne reçoivent en hiver que l'eau des Ravines, qui les fait en ce temps-là passer pour des Rivières effectives à ceux qui ne le savent pas.
 
 ***
 *FIN.*
