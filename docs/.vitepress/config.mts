@@ -4,6 +4,7 @@ export default defineConfig({
   title: "Relation de la Captivité",
   description: "Mémoires de Germain Moüette (1683)",
   lang: 'fr-FR',
+  base: '/captivite-mouette/',
   appearance: false, // Mode livre (pas de dark mode)
   
   themeConfig: {
