@@ -1,5 +1,5 @@
-/* 1. IMPORTATION DE LA POLICE HISTORIQUE */
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap');
+/* 1. IMPORTATION DES POLICES */
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
 
 /* 2. DÉFINITION DES COULEURS (Style Livre Unique) */
 :root {
@@ -33,44 +33,54 @@
   --vp-c-divider: rgba(60, 45, 30, 0.1);
   --vp-c-gutter: rgba(60, 45, 30, 0.1);
 
-  /* --- POLICE --- */
-  --vp-font-family-base: 'IM Fell English', serif;
+  /* --- POLICES --- */
+  /* Crimson Text pour le corps (lisible sur écran), IM Fell English pour les titres */
+  --vp-font-family-base: 'Crimson Text', serif;
 }
 
 /* 3. STYLES DU CONTENU */
 
 /* Le corps du texte : justifié comme un livre */
 .vp-doc p, .vp-doc li {
-  font-size: 1.25rem;
-  line-height: 1.6;
+  font-size: 1.2rem;
+  line-height: 1.75;
   text-align: justify;
   text-justify: inter-word;
+  letter-spacing: 0.01em;
 }
 
-/* TITRES (H1) */
+/* TITRES (H1) — police historique */
 .vp-doc h1 {
+  font-family: 'IM Fell English', serif;
   font-size: 3rem;
   text-align: center;
   margin-bottom: 2rem;
   font-weight: normal;
-  color: var(--vp-c-brand-1); /* Le titre en rouge comme à l'époque */
+  color: var(--vp-c-brand-1);
 }
 
-/* SOUS-TITRES (H2) - Correction demandée : plus de soulignement */
+/* SOUS-TITRES (H2) — police historique */
 .vp-doc h2 {
+  font-family: 'IM Fell English', serif;
   font-size: 2.2rem;
   margin-top: 3rem;
   margin-bottom: 1rem;
-  border-bottom: none;      /* Pas de ligne en dessous */
-  text-decoration: none;    /* Pas de soulignement */
-  font-weight: normal;      /* Pas de gras, la police suffit */
-  letter-spacing: 1px;      /* Un peu d'air entre les lettres */
-  text-align: center;       /* Titres centrés c'est souvent plus joli en style ancien */
+  border-bottom: none;
+  text-decoration: none;
+  font-weight: normal;
+  letter-spacing: 1px;
+  text-align: center;
 }
 
-/* LETTRINE (Première lettre du chapitre) */
+/* SOUS-TITRES (H3) — police historique */
+.vp-doc h3 {
+  font-family: 'IM Fell English', serif;
+}
+
+/* LETTRINE (Première lettre du chapitre) — police historique */
 .vp-doc h1 + p::first-letter {
   float: left;
+  font-family: 'IM Fell English', serif;
   font-size: 3.8rem;
   line-height: 0.85;
   padding-right: 10px;
@@ -109,4 +119,47 @@
   background-color: transparent;
   border: 1px solid var(--vp-c-text-2);
   color: var(--vp-c-text-1);
+}
+
+/* 5. NOTES DE BAS DE PAGE */
+
+/* Appels de note dans le texte */
+.footnote-ref a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  font-size: 0.8em;
+  vertical-align: super;
+}
+
+/* Section des notes en bas de page */
+.footnotes-sep {
+  margin-top: 3rem;
+  border-color: var(--vp-c-divider);
+}
+
+.footnotes {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--vp-c-text-2);
+}
+
+.footnotes ol {
+  padding-left: 1.5rem;
+}
+
+.footnotes li {
+  font-size: 0.95rem !important;
+  text-align: left !important;
+}
+
+/* Lien retour depuis la note */
+.footnote-backref {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  margin-left: 4px;
+}
+
+/* Sidebar — police historique */
+.VPSidebar .item .text {
+  font-family: 'IM Fell English', serif;
 }

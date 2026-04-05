@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import footnote from 'markdown-it-footnote'
 
 export default defineConfig({
   title: "Relation de la Captivité",
@@ -6,6 +7,11 @@ export default defineConfig({
   lang: 'fr-FR',
   base: '/captivite-mouette/',
   appearance: false, // Mode livre (pas de dark mode)
+  markdown: {
+    config: (md) => {
+      md.use(footnote)
+    }
+  },
   
   themeConfig: {
     siteTitle: 'Germain Moüette',

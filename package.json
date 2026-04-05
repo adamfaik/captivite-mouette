@@ -7,6 +7,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
+    "markdown-it-footnote": "^4.0.0",
     "vitepress": "^1.0.0"
   }
 }
