@@ -17,8 +17,8 @@ features:
     details: Texte modernisé puis vérifié paragraphe par paragraphe contre l'édition originale de 1683, avec réintégration des passages perdus.
   - title: Annexes Historiques
     details: Inclut le Traité de Commerce, le Dictionnaire de la Langue Arabesque et la description géographique du pays.
-  - title: Contexte Historique
-    details: Un document brut du XVIIe siècle, reflétant les mentalités, les conflits et les préjugés de son époque.
+  - title: Repères historiques
+    details: "Chaque chapitre est enrichi de notes contextuelles sourcées pour comprendre le monde de Moüette : corsaires, Moulay Ismaïl, commerce transsaharien, ordres rédempteurs..."
 ---
 
 ## Présentation de l'œuvre

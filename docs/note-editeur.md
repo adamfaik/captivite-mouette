@@ -28,12 +28,13 @@ Le texte a été extrait du scan du livre original disponible sur Google Books[^
 
 L'ensemble du texte — les quinze chapitres, la préface, le privilège, le traité du commerce, le dictionnaire arabe-français et la géographie — a ensuite été comparé paragraphe par paragraphe avec le texte source de 1683, puis corrigé et harmonisé selon les principes éditoriaux décrits ci-dessous.
 
-Ce travail de révision a été réalisé à l'aide de [Claude Code](https://claude.ai/claude-code), l'outil en ligne de commande d'Anthropic. Deux *skills* (instructions réutilisables) ont été spécialement conçues pour ce projet :
+Ce travail de révision a été réalisé à l'aide de [Claude Code](https://claude.ai/claude-code), l'outil en ligne de commande d'Anthropic. Trois *skills* (instructions réutilisables) ont été spécialement conçues pour ce projet :
 
 - **[review-chapter](https://github.com/adamfaik/captivite-mouette/blob/main/.claude/skills/review-chapter/SKILL.md)** — compare un chapitre modernisé avec le texte original et produit un rapport structuré : omissions, glissements de sens, incohérences de modernisation, candidats aux notes de bas de page.
 - **[harmonize](https://github.com/adamfaik/captivite-mouette/blob/main/.claude/skills/harmonize/SKILL.md)** — applique les corrections identifiées en suivant les principes éditoriaux définis pour cette édition.
+- **[annotate](https://github.com/adamfaik/captivite-mouette/blob/main/.claude/skills/annotate/SKILL.md)** — lit un chapitre avec les yeux d'un lecteur moderne, identifie les passages qui méritent un éclairage historique, recherche et vérifie les faits via des sources fiables, puis rédige les notes contextuelles.
 
-Chaque chapitre a été traité par ces deux passes successives. Cette révision a permis de réintégrer plusieurs passages qui avaient été perdus lors de la transcription automatique, de corriger des glissements de sens et d'assurer la cohérence de l'ensemble.
+Chaque chapitre a été traité par ces trois passes successives. Cette révision a permis de réintégrer plusieurs passages perdus lors de la transcription automatique, de corriger des glissements de sens, d'assurer la cohérence de l'ensemble, et d'enrichir chaque chapitre de repères historiques sourcés.
 
 ## Principes éditoriaux
 
@@ -66,6 +67,10 @@ Les unités anciennes (lieues, brasses, palmes, tonneaux) et les formes numériq
 ### Termes sensibles
 
 Les termes que Moüette emploie pour désigner les peuples, les religions et les cultures qu'il a côtoyés ont été maintenus tels quels. L'avertissement en tête de cette note en tient lieu de commentaire.
+
+### Repères historiques
+
+Chaque chapitre se termine par une section intitulée *Repères historiques*. Ces notes, clairement séparées du texte de Moüette, offrent au lecteur moderne un éclairage sur le contexte historique des événements, des lieux et des personnages mentionnés. Chaque note cite ses sources (articles académiques, encyclopédies, sites patrimoniaux). Elles ne prétendent pas à l'exhaustivité : elles visent à nourrir la curiosité du lecteur sans se substituer à un appareil critique savant.
 
 ### Dictionnaire arabe-français
 

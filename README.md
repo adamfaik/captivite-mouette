@@ -50,7 +50,7 @@ Le livre comprend :
 Le travail a été réalisé en deux temps :
 
 1.  **Transcription & Modernisation :** Extraction du texte via OCR et première modernisation orthographique à l'aide de l'intelligence artificielle **Gemini** (ex: *françois* ➔ *français*, *estre* ➔ *être*, *sçavoir* ➔ *savoir*).
-2.  **Revue comparative & Harmonisation :** Comparaison systématique de chaque chapitre avec le texte original de 1683, à l'aide de [Claude Code](https://claude.ai/claude-code) (Anthropic). Deux *skills* dédiées ([review-chapter](.claude/skills/review-chapter/SKILL.md) et [harmonize](.claude/skills/harmonize/SKILL.md)) ont permis de réintégrer les passages perdus, corriger les glissements de sens et assurer la cohérence éditoriale de l'ensemble.
+2.  **Revue comparative & Harmonisation :** Comparaison systématique de chaque chapitre avec le texte original de 1683, à l'aide de [Claude Code](https://claude.ai/claude-code) (Anthropic). Trois *skills* dédiées ([review-chapter](.claude/skills/review-chapter/SKILL.md), [harmonize](.claude/skills/harmonize/SKILL.md) et [annotate](.claude/skills/annotate/SKILL.md)) ont permis de réintégrer les passages perdus, corriger les glissements de sens, assurer la cohérence éditoriale, et enrichir chaque chapitre de repères historiques sourcés.
 3.  **Mise en forme :** Structuration en Markdown, notes de bas de page, et navigation par chapitres.
 
 Les principes éditoriaux détaillés (voix de l'auteur, noms propres, notes, termes sensibles, etc.) sont décrits dans la [Note sur la présente édition](https://adamfaik.github.io/captivite-mouette/note-editeur).
@@ -83,7 +83,8 @@ captivite-mouette/
 │   └── original_djvu.txt          # Texte source OCR du livre de 1683
 ├── .claude/skills/                # Skills Claude Code
 │   ├── review-chapter/SKILL.md    # Revue comparative d'un chapitre
-│   └── harmonize/SKILL.md         # Harmonisation éditoriale
+│   ├── harmonize/SKILL.md         # Harmonisation éditoriale
+│   └── annotate/SKILL.md          # Annotations historiques sourcées
 └── package.json
 ```
 

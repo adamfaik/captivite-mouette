@@ -2,6 +2,7 @@
 
 **Relation de la Captivité du Sr. Moüette dans les Royaumes de Fez et de Maroc.**
 
+* [Introduction](/chapitres/introduction)
 * [Préface](/chapitres/preface)
 * [Extrait du Privilège du Roi](/chapitres/privilege)
 
