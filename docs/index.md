@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Commencer la lecture
-      link: /note-editeur
+      link: /chapitres/introduction
 
 features:
   - title: Récit Complet

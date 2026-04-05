@@ -49,7 +49,7 @@ export default defineConfig({
         text: 'Préliminaires du Livre',
         collapsed: false,
         items: [
-          // Ajout du préfixe /chapitres/
+          { text: 'Introduction', link: '/chapitres/introduction' },
           { text: 'Page de Titre', link: '/chapitres/page-titre' },
           { text: 'Préface', link: '/chapitres/preface' },
           { text: 'Privilège du Roi', link: '/chapitres/privilege' },
