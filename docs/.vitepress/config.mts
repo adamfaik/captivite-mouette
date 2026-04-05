@@ -7,6 +7,21 @@ export default defineConfig({
   lang: 'fr-FR',
   base: '/captivite-mouette/',
   appearance: false, // Mode livre (pas de dark mode)
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/captivite-mouette/favicon-32x32.png' }],
+    ['link', { rel: 'icon', href: '/captivite-mouette/favicon.ico' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/captivite-mouette/apple-touch-icon.png' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'Relation de la Captivité du Sr Moüette (1683)' }],
+    ['meta', { property: 'og:description', content: 'Édition numérique modernisée du récit de Germain Moüette, captif au Maroc pendant onze ans sous le règne de Moulay Ismaïl.' }],
+    ['meta', { property: 'og:image', content: 'https://adamfaik.github.io/captivite-mouette/images/og-image.png' }],
+    ['meta', { property: 'og:url', content: 'https://adamfaik.github.io/captivite-mouette/' }],
+    ['meta', { property: 'og:locale', content: 'fr_FR' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'Relation de la Captivité du Sr Moüette (1683)' }],
+    ['meta', { name: 'twitter:description', content: 'Édition numérique modernisée du récit de Germain Moüette, captif au Maroc pendant onze ans sous le règne de Moulay Ismaïl.' }],
+    ['meta', { name: 'twitter:image', content: 'https://adamfaik.github.io/captivite-mouette/images/og-image.png' }],
+  ],
   markdown: {
     config: (md) => {
       md.use(footnote)
