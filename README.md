@@ -2,8 +2,6 @@
 
 **Projet de numérisation, modernisation et édition web d'un récit historique du XVIIe siècle.**
 
-[![Deploy to GitHub Pages](https://github.com/adamfaik/captivite-mouette/actions/workflows/deploy.yml/badge.svg)](https://github.com/adamfaik/captivite-mouette/actions/workflows/deploy.yml)
-
 <div align="center">
   <br>
   <img src="docs/public/images/cover-captivite.png" alt="Couverture Relation de la Captivité" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
